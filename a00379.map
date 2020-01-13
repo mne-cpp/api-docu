@@ -1,0 +1,13 @@
+<map id="src/libraries/disp/viewers/helpers/layoutscene.h" name="src/libraries/disp/viewers/helpers/layoutscene.h">
+<area shape="rect" id="node1" title="Contains the declaration of the LayoutScene class." alt="" coords="951,5,1175,47"/>
+<area shape="rect" id="node2" href="$a00323.html" title="Contains the declaration of the AverageScene class." alt="" coords="269,95,505,136"/>
+<area shape="rect" id="node5" href="$a00407.html" title="Contains the declaration of the SelectionScene class." alt="" coords="809,95,1052,136"/>
+<area shape="rect" id="node8" href="$a00359.html" title="Contains the declaration of the FilterPlotScene class." alt="" coords="1077,95,1315,136"/>
+<area shape="rect" id="node11" href="$a00374.html" title="Definition of the LayoutScene class." alt="" coords="1339,95,1578,136"/>
+<area shape="rect" id="node3" href="$a00224.html" title="Definition of the AverageLayoutView Class." alt="" coords="5,184,237,225"/>
+<area shape="rect" id="node4" href="$a00320.html" title="Definition of the AverageScene class." alt="" coords="261,184,512,225"/>
+<area shape="rect" id="node6" href="$a00254.html" title="Definition of the ChannelSelectionView class." alt="" coords="536,184,784,225"/>
+<area shape="rect" id="node7" href="$a00404.html" title="Definition of the SelectionScene class." alt="" coords="809,184,1066,225"/>
+<area shape="rect" id="node9" href="$a00302.html" title="Definition of the FilterDesignView class." alt="" coords="1091,184,1301,225"/>
+<area shape="rect" id="node10" href="$a00356.html" title="Definition of the FilterPlotScene class." alt="" coords="1325,184,1579,225"/>
+</map>

@@ -1,0 +1,52 @@
+<map id="src/libraries/inverse/dipoleFit/ecd_set.h" name="src/libraries/inverse/dipoleFit/ecd_set.h">
+<area shape="rect" id="node1" title="FiffDigPointSet class declaration." alt="" coords="5538,5,5689,47"/>
+<area shape="rect" id="node2" href="$a00590.html" title="Contains general application specific types." alt="" coords="2745,95,2962,151"/>
+<area shape="rect" id="node6" href="$a03565.html" title="AbstractView class definition." alt="" coords="5843,414,6034,455"/>
+<area shape="rect" id="node8" href="$a00542.html" title="Data3DTreeModel class definition." alt="" coords="1679,518,1939,559"/>
+<area shape="rect" id="node9" href="$a00623.html" title="MeasurementTreeItem class definition." alt="" coords="1024,511,1275,567"/>
+<area shape="rect" id="node20" href="$a00665.html" title="EcdDataTreeItem class definition." alt="" coords="2051,407,2283,463"/>
+<area shape="rect" id="node30" href="$a00797.html" title="ECDView class definition." alt="" coords="6058,414,6219,455"/>
+<area shape="rect" id="node46" href="$a01169.html" title="Dipole Fit class declaration." alt="" coords="5658,206,5817,247"/>
+<area shape="rect" id="node48" href="$a01181.html" title="Dipole Fit Setting class declaration." alt="" coords="5786,95,5937,151"/>
+<area shape="rect" id="node50" href="$a01196.html" title="Definition of the Electric Current Dipole Set (ECDSet) Class." alt="" coords="6176,102,6339,143"/>
+<area shape="rect" id="node3" href="$a00575.html" title="AbstractTreeItem class declaration." alt="" coords="1249,199,1466,255"/>
+<area shape="rect" id="node24" href="$a00608.html" title="FsAnnotationTreeItem class declaration." alt="" coords="145,303,369,359"/>
+<area shape="rect" id="node28" href="$a00545.html" title="Data3DTreeModel class declaration." alt="" coords="5331,310,5576,351"/>
+<area shape="rect" id="node29" href="$a00779.html" title="View3D class definition." alt="" coords="5582,414,5767,455"/>
+<area shape="rect" id="node32" href="$a00563.html" title="Abstract3DTreeItem class declaration." alt="" coords="2598,199,2815,255"/>
+<area shape="rect" id="node33" href="$a00569.html" title="AbstractMeshTreeItem class declaration." alt="" coords="3398,303,3615,359"/>
+<area shape="rect" id="node34" href="$a00614.html" title="FsSurfaceTreeItem class declaration." alt="" coords="4121,407,4345,463"/>
+<area shape="rect" id="node35" href="$a00680.html" title="SourceSpaceTreeItem class declaration." alt="" coords="2786,407,3027,463"/>
+<area shape="rect" id="node36" href="$a00551.html" title="BemSurfaceTreeItem class declaration." alt="" coords="93,407,283,463"/>
+<area shape="rect" id="node37" href="$a00638.html" title="NetworkTreeItem class declaration." alt="" coords="4420,407,4633,463"/>
+<area shape="rect" id="node38" href="$a00662.html" title="SensorSurfaceTreeItem class declaration." alt="" coords="459,407,701,463"/>
+<area shape="rect" id="node45" href="$a00761.html" title="RtSourceInterpolationMatWorker class definition." alt="" coords="444,199,783,255"/>
+<area shape="rect" id="node4" href="$a00521.html" title="Data3DTreeDelegate class declaration." alt="" coords="4928,310,5205,351"/>
+<area shape="rect" id="node7" href="$a00557.html" title="BemTreeItem class declaration." alt="" coords="725,407,915,463"/>
+<area shape="rect" id="node10" href="$a00656.html" title="SensorSetTreeItem class declaration." alt="" coords="1146,407,1387,463"/>
+<area shape="rect" id="node11" href="$a00686.html" title="SubjectTreeItem class declaration." alt="" coords="1411,407,1618,463"/>
+<area shape="rect" id="node12" href="$a00626.html" title="MeasurementTreeItem class declaration." alt="" coords="1564,303,1815,359"/>
+<area shape="rect" id="node13" href="$a00644.html" title=" " alt="" coords="1693,407,1925,463"/>
+<area shape="rect" id="node15" href="$a00632.html" title="MriTreeItem class declaration." alt="" coords="939,407,1122,463"/>
+<area shape="rect" id="node16" href="$a00587.html" title="MetaTreeItem class declaration." alt="" coords="2891,303,3109,359"/>
+<area shape="rect" id="node22" href="$a00572.html" title="AbstractTreeItem class definition." alt="" coords="1322,303,1539,359"/>
+<area shape="rect" id="node23" href="$a00596.html" title="DigitizerSetTreeItem class declaration." alt="" coords="507,303,720,359"/>
+<area shape="rect" id="node25" href="$a00620.html" title="HemisphereTreeItem class declaration." alt="" coords="857,303,1095,359"/>
+<area shape="rect" id="node26" href="$a00674.html" title="MneDataTreeItem class declaration." alt="" coords="4003,303,4235,359"/>
+<area shape="rect" id="node5" href="$a00518.html" title="Data3DTreeDelegate class definition." alt="" coords="4921,414,5213,455"/>
+<area shape="rect" id="node14" href="$a00641.html" title="SensorDataTreeItem class definition." alt="" coords="3096,511,3328,567"/>
+<area shape="rect" id="node17" href="$a00560.html" title="Abstract3DTreeItem class definition." alt="" coords="2545,407,2762,463"/>
+<area shape="rect" id="node18" href="$a00566.html" title="AbstractMeshTreeItem class definition." alt="" coords="3103,407,3321,463"/>
+<area shape="rect" id="node19" href="$a00611.html" title="FsSurfaceTreeItem class definition." alt="" coords="4903,511,5127,567"/>
+<area shape="rect" id="node21" href="$a00671.html" title="MneDataTreeItem class definition." alt="" coords="4117,511,4349,567"/>
+<area shape="rect" id="node27" href="$a00809.html" title="SourceEstimateView class definition." alt="" coords="4658,414,4897,455"/>
+<area shape="rect" id="node31" href="$a00803.html" title="NetworkView class definition." alt="" coords="5430,518,5621,559"/>
+<area shape="rect" id="node41" href="$a00602.html" title="DigitizerTreeItem class declaration." alt="" coords="2307,407,2520,463"/>
+<area shape="rect" id="node42" href="$a00581.html" title="GpuInterpolationItem class declaration." alt="" coords="5289,407,5506,463"/>
+<area shape="rect" id="node43" href="$a00668.html" title="EcdDataTreeItem class declaration." alt="" coords="2204,303,2436,359"/>
+<area shape="rect" id="node44" href="$a00650.html" title="SensorPositionTreeItem class declaration." alt="" coords="3133,303,3374,359"/>
+<area shape="rect" id="node39" href="$a00737.html" title="RtSensorDataWorker class definition." alt="" coords="3447,407,3713,463"/>
+<area shape="rect" id="node40" href="$a00755.html" title="RtSourceDataWorker class definition." alt="" coords="3737,407,3996,463"/>
+<area shape="rect" id="node47" href="$a01166_source.html" title=" " alt="" coords="5651,310,5824,351"/>
+<area shape="rect" id="node49" href="$a01178_source.html" title=" " alt="" coords="5950,199,6101,255"/>
+</map>

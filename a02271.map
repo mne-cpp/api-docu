@@ -1,0 +1,5 @@
+<map id="DISP3DLIB::PerVertexPhongAlphaMaterial" name="DISP3DLIB::PerVertexPhongAlphaMaterial">
+<area shape="rect" id="node1" title="PerVertexPhongAlphaMaterial is provides a Qt3D material with own shader support." alt="" coords="5,461,257,568"/>
+<area shape="rect" id="node2" href="$a02256.html" title="This abstract class is used as a base class for all materials that are using the phong alpha lightini..." alt="" coords="10,131,253,413"/>
+<area shape="rect" id="node3" title=" " alt="" coords="88,5,175,83"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="src/libraries/rtprocessing/helpers/filterkernel.h" name="src/libraries/rtprocessing/helpers/filterkernel.h">
+<area shape="rect" id="node1" title="The FilterKernel class represents a filter object that generates the FIR filter coefficients using Pa..." alt="" coords="370,5,553,47"/>
+<area shape="rect" id="node2" href="$a01652.html" title="realtime library export/import macros." alt="" coords="59,95,232,121"/>
+<area shape="rect" id="node6" title=" " alt="" coords="257,95,349,121"/>
+<area shape="rect" id="node7" title=" " alt="" coords="373,95,443,121"/>
+<area shape="rect" id="node8" title=" " alt="" coords="467,95,562,121"/>
+<area shape="rect" id="node9" title=" " alt="" coords="586,95,659,121"/>
+<area shape="rect" id="node10" title=" " alt="" coords="684,95,759,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,169,136,196"/>
+<area shape="rect" id="node4" href="$a01661.html" title="build information utils" alt="" coords="160,169,283,196"/>
+<area shape="rect" id="node5" title=" " alt="" coords="188,244,255,271"/>
+</map>

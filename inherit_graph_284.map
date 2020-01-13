@@ -1,0 +1,54 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$a03376.html" title="The ICommand interface provides the base class of every command of the command design pattern." alt="" coords="159,31,317,57"/>
+<area shape="rect" id="node2" href="$a01812.html" title="Command." alt="" coords="414,5,647,32"/>
+<area shape="rect" id="node3" href="$a01824.html" title="RawCommand." alt="" coords="400,56,661,83"/>
+<area shape="rect" id="node4" href="$a03380.html" title="The IObserver interface provides the base class of every observer of the observer design pattern." alt="" coords="163,115,313,141"/>
+<area shape="rect" id="node5" href="$a01816.html" title=" " alt="" coords="414,107,647,149"/>
+<area shape="rect" id="node6" title=" " alt="" coords="5,1635,76,1661"/>
+<area shape="rect" id="node7" href="$a02156.html" title="Base class for renederable 3D QEntities." alt="" coords="124,1635,352,1661"/>
+<area shape="rect" id="node8" href="$a02172.html" title="Provides the basic tree item." alt="" coords="417,1635,644,1661"/>
+<area shape="rect" id="node9" href="$a02176.html" title="Provides a generic mesh tree item." alt="" coords="710,1693,954,1720"/>
+<area shape="rect" id="node14" href="$a02196.html" title="DigitizerTreeItem provides a generic tree item to hold and visualize digitizer data." alt="" coords="727,1744,937,1771"/>
+<area shape="rect" id="node15" href="$a02240.html" title="Provides a generic brain tree item to hold real time data." alt="" coords="727,1795,937,1821"/>
+<area shape="rect" id="node16" href="$a02184.html" title="This item is used for signal interpolation with GPU support." alt="" coords="713,1525,951,1552"/>
+<area shape="rect" id="node17" href="$a02220.html" title="Provides a generic brain tree item to hold real time data." alt="" coords="727,1576,937,1603"/>
+<area shape="rect" id="node18" href="$a02228.html" title="SensorPositionTreeItem provides a tree item to visualize sensor position data." alt="" coords="735,1627,929,1669"/>
+<area shape="rect" id="node10" href="$a02164.html" title="BemSurfaceTreeItem provides a generic brain tree item to hold BEM surfaces." alt="" coords="1005,1613,1239,1640"/>
+<area shape="rect" id="node11" href="$a02204.html" title="Provides a generic brain tree item." alt="" coords="1013,1664,1231,1691"/>
+<area shape="rect" id="node12" href="$a02236.html" title="SensorSurfaceTreeItem provides a generic brain tree item to hold sensor surfaces." alt="" coords="1027,1715,1217,1757"/>
+<area shape="rect" id="node13" href="$a02248.html" title="Provides a generic brain tree item." alt="" coords="1003,1781,1241,1808"/>
+<area shape="rect" id="node19" title=" " alt="" coords="201,625,275,652"/>
+<area shape="rect" id="node20" href="$a01820.html" title=" " alt="" coords="414,173,647,214"/>
+<area shape="rect" id="node21" href="$a02180.html" title="Provides the basic tree item." alt="" coords="426,1247,635,1273"/>
+<area shape="rect" id="node33" href="$a02284.html" title="This controller organizes data streaming and interpolation matrix calculations. It only uses Queued s..." alt="" coords="405,239,656,265"/>
+<area shape="rect" id="node34" href="$a02288.html" title="This worker streams either interpolated or raw data." alt="" coords="415,289,647,316"/>
+<area shape="rect" id="node35" href="$a02296.html" title="This worker calculates the interpolation matrix." alt="" coords="411,341,650,382"/>
+<area shape="rect" id="node36" href="$a02304.html" title="This controller organizes data streaming and interpolation matrix calculations. It only uses Queued s..." alt="" coords="405,407,656,433"/>
+<area shape="rect" id="node37" href="$a02316.html" title="This worker streams either interpolated or raw data." alt="" coords="415,457,647,484"/>
+<area shape="rect" id="node38" href="$a02320.html" title="This worker calculates the interpolation matrix." alt="" coords="411,509,650,550"/>
+<area shape="rect" id="node39" href="$a02564.html" title=" " alt="" coords="449,575,612,601"/>
+<area shape="rect" id="node40" href="$a02536.html" title=" " alt="" coords="475,625,587,652"/>
+<area shape="rect" id="node41" href="$a03312.html" title="The ParksMcClellan class provides the ParksMcClellan filter desing algorithm." alt="" coords="429,677,633,718"/>
+<area shape="rect" id="node42" href="$a03320.html" title="Real&#45;time averaging." alt="" coords="416,743,645,769"/>
+<area shape="rect" id="node43" href="$a03316.html" title="Real&#45;time averaging worker." alt="" coords="416,794,645,835"/>
+<area shape="rect" id="node44" href="$a03328.html" title="Real&#45;time connectivity estimation." alt="" coords="407,860,654,887"/>
+<area shape="rect" id="node45" href="$a03324.html" title="Real&#45;time connectivity worker." alt="" coords="407,911,654,953"/>
+<area shape="rect" id="node46" href="$a03336.html" title="Real&#45;time covariance worker." alt="" coords="436,977,625,1004"/>
+<area shape="rect" id="node47" href="$a03344.html" title="Real&#45;time Head Coil Positions estimation." alt="" coords="437,1028,624,1055"/>
+<area shape="rect" id="node48" href="$a03340.html" title="Real&#45;time HPI worker." alt="" coords="415,1079,646,1105"/>
+<area shape="rect" id="node49" href="$a03356.html" title="Real&#45;time inverse operator estimation." alt="" coords="429,1129,632,1156"/>
+<area shape="rect" id="node50" href="$a03352.html" title="Real&#45;time inverse operator worker." alt="" coords="429,1181,632,1222"/>
+<area shape="rect" id="node22" href="$a02168.html" title="BemTreeItem provides a tree item to hold BEM models." alt="" coords="739,1323,925,1349"/>
+<area shape="rect" id="node23" href="$a02192.html" title="DigitizerSetTreeItem provides a tree item to hold the set of digitizer data." alt="" coords="717,1373,947,1400"/>
+<area shape="rect" id="node24" href="$a02200.html" title="Provides a generic brain tree item." alt="" coords="711,1424,953,1451"/>
+<area shape="rect" id="node25" href="$a02208.html" title="Provides a generic brain tree item." alt="" coords="715,1475,949,1501"/>
+<area shape="rect" id="node26" href="$a02212.html" title="Provides a generic MeasurementTreeItem." alt="" coords="709,968,955,995"/>
+<area shape="rect" id="node27" href="$a02188.html" title="Provides a generic brain tree item." alt="" coords="738,1019,926,1045"/>
+<area shape="rect" id="node28" href="$a02244.html" title="Provides a generic brain tree item to hold real time data." alt="" coords="725,1069,939,1096"/>
+<area shape="rect" id="node29" href="$a02216.html" title="Provides a generic MriTreeItem." alt="" coords="744,1120,920,1147"/>
+<area shape="rect" id="node30" href="$a02224.html" title="This item integrates GeometryInfo and Interpolation into Disp3D structure." alt="" coords="717,1171,947,1197"/>
+<area shape="rect" id="node31" href="$a02232.html" title="Provides a generic SensorSetTreeItem." alt="" coords="722,1221,942,1248"/>
+<area shape="rect" id="node32" href="$a02252.html" title="Provides a generic SubjectTreeItem." alt="" coords="731,1272,933,1299"/>
+<area shape="rect" id="node51" title=" " alt="" coords="178,1403,298,1429"/>
+<area shape="rect" id="node52" href="$a03384.html" title="The Subject class provides the base class of every subject of the observer design pattern." alt="" coords="171,180,305,207"/>
+</map>

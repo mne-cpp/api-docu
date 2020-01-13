@@ -1,0 +1,13 @@
+<map id="src/libraries/utils/ioutils.h" name="src/libraries/utils/ioutils.h">
+<area shape="rect" id="node1" title="IOUtils class declaration." alt="" coords="873,5,1004,47"/>
+<area shape="rect" id="node2" href="$a00392.html" title="Definition of the RtFiffRawViewModel Class." alt="" coords="5,95,288,136"/>
+<area shape="rect" id="node3" href="$a00965.html" title="Definition of the FiffInfo Class." alt="" coords="311,95,430,136"/>
+<area shape="rect" id="node4" href="$a01007.html" title="Definition of the FiffStream Class." alt="" coords="455,95,577,136"/>
+<area shape="rect" id="node5" href="$a01013.html" title="Definition of the FiffTag Class." alt="" coords="602,95,721,136"/>
+<area shape="rect" id="node6" href="$a01058.html" title="Definition of the Surface class." alt="" coords="745,102,938,129"/>
+<area shape="rect" id="node7" href="$a01214.html" title="HPIFit class defintion." alt="" coords="962,95,1113,136"/>
+<area shape="rect" id="node8" href="$a01451.html" title="Definition of the MNE Surface or Volume (MneSurfaceOrVolume) Class." alt="" coords="1137,95,1351,136"/>
+<area shape="rect" id="node9" href="$a01523.html" title="MNEForwardSolution class implementation." alt="" coords="1375,95,1539,136"/>
+<area shape="rect" id="node10" href="$a01613.html" title="Definition of the RtAveraging and RtAveragingWorker classes." alt="" coords="1563,95,1746,136"/>
+<area shape="rect" id="node11" href="$a01688.html" title="Definition of the IOUtils class." alt="" coords="1771,95,1901,136"/>
+</map>

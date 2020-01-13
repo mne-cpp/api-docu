@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="5,85,165,112"/>
+<area shape="rect" id="node2" href="$a02024.html" title=" " alt="" coords="221,5,420,32"/>
+<area shape="rect" id="node3" href="$a02032.html" title="The EvokedSetModel class implements the data access model for evoked set data." alt="" coords="227,56,415,83"/>
+<area shape="rect" id="node4" href="$a02044.html" title="The FrequencySpectrumModel class implements the data access model for a real&#45;time multi sample array ..." alt="" coords="216,107,425,149"/>
+<area shape="rect" id="node5" href="$a02060.html" title="The RtFiffRawViewModel class implements the data access model for a real&#45;time multi sample array data..." alt="" coords="213,173,428,200"/>
+</map>

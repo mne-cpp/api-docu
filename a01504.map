@@ -1,0 +1,44 @@
+<map id="src/libraries/mne/mne_cluster_info.h" name="src/libraries/mne/mne_cluster_info.h">
+<area shape="rect" id="node1" title="MNEClusterInfo class declaration, which provides cluster information." alt="" coords="441,5,605,47"/>
+<area shape="rect" id="node2" href="$a01538.html" title="MNEHemisphere class declaration." alt="" coords="348,95,512,136"/>
+<area shape="rect" id="node42" href="$a01499.html" title="MNEClusterInfo class implementation." alt="" coords="536,95,700,136"/>
+<area shape="rect" id="node3" href="$a00677.html" title="SourceSpaceTreeItem class definition." alt="" coords="65,184,307,240"/>
+<area shape="rect" id="node4" href="$a01556.html" title="MNESourceSpace class declaration." alt="" coords="433,191,597,233"/>
+<area shape="rect" id="node9" href="$a01484.html" title="MNE class declaration, which provides static wrapper functions to stay consistent with mne matlab too..." alt="" coords="19,496,195,523"/>
+<area shape="rect" id="node41" href="$a01535.html" title="MNEHemisphere class implementation." alt="" coords="621,191,785,233"/>
+<area shape="rect" id="node5" href="$a00623.html" title="MeasurementTreeItem class definition." alt="" coords="2377,585,2627,641"/>
+<area shape="rect" id="node6" href="$a03583.html" title="MNEInverseOperator class declaration." alt="" coords="484,385,648,426"/>
+<area shape="rect" id="node13" href="$a01526.html" title="MNEForwardSolution class declaration, which provides the forward solution including the source space ..." alt="" coords="2491,288,2655,329"/>
+<area shape="rect" id="node40" href="$a01553.html" title="MNESourceSpace class implementation." alt="" coords="553,288,717,329"/>
+<area shape="rect" id="node7" href="$a01256.html" title="Minimum norm class declaration." alt="" coords="220,489,459,530"/>
+<area shape="rect" id="node11" href="$a03577.html" title="Definition of the MNEInverseOperator Class." alt="" coords="483,489,649,530"/>
+<area shape="rect" id="node12" href="$a01637.html" title="Definition of the RtInvOp Class." alt="" coords="673,489,856,530"/>
+<area shape="rect" id="node8" href="$a01253.html" title="Definition of the MinimumNorm Class." alt="" coords="221,593,474,634"/>
+<area shape="rect" id="node10" href="$a01481.html" title="Definition of the MNE Wrapper Class." alt="" coords="5,600,196,627"/>
+<area shape="rect" id="node14" href="$a00062.html" title="ConnectivitySettings class definition." alt="" coords="3387,385,3572,426"/>
+<area shape="rect" id="node15" href="$a00545.html" title="Data3DTreeModel class declaration." alt="" coords="1535,385,1781,426"/>
+<area shape="rect" id="node22" href="$a00809.html" title="SourceEstimateView class definition." alt="" coords="2072,489,2311,530"/>
+<area shape="rect" id="node23" href="$a00626.html" title="MeasurementTreeItem class declaration." alt="" coords="2610,377,2861,433"/>
+<area shape="rect" id="node28" href="$a00632.html" title="MriTreeItem class declaration." alt="" coords="2976,481,3159,537"/>
+<area shape="rect" id="node30" href="$a00617.html" title="HemisphereTreeItem class definition." alt="" coords="1805,377,2042,433"/>
+<area shape="rect" id="node31" href="$a00635.html" title="NetworkTreeItem class definition." alt="" coords="2066,377,2279,433"/>
+<area shape="rect" id="node32" href="$a00671.html" title="MneDataTreeItem class definition." alt="" coords="2303,377,2535,433"/>
+<area shape="rect" id="node33" href="$a01073.html" title="Compute Forward Setting class declaration." alt="" coords="3175,385,3362,426"/>
+<area shape="rect" id="node34" href="$a01070_source.html" title=" " alt="" coords="3234,489,3421,530"/>
+<area shape="rect" id="node35" href="$a01274.html" title="RapMusic algorithm class declaration." alt="" coords="3596,385,3757,426"/>
+<area shape="rect" id="node36" href="$a01268.html" title="PwlRapMusic algorithm class declaration." alt="" coords="3703,489,3887,530"/>
+<area shape="rect" id="node39" href="$a01523.html" title="MNEForwardSolution class implementation." alt="" coords="2936,385,3100,426"/>
+<area shape="rect" id="node16" href="$a00518.html" title="Data3DTreeDelegate class definition." alt="" coords="932,489,1224,530"/>
+<area shape="rect" id="node17" href="$a00542.html" title="Data3DTreeModel class definition." alt="" coords="2652,593,2912,634"/>
+<area shape="rect" id="node18" href="$a00779.html" title="View3D class definition." alt="" coords="1248,489,1433,530"/>
+<area shape="rect" id="node19" href="$a03565.html" title="AbstractView class definition." alt="" coords="1457,489,1648,530"/>
+<area shape="rect" id="node20" href="$a00797.html" title="ECDView class definition." alt="" coords="1672,489,1833,530"/>
+<area shape="rect" id="node21" href="$a00803.html" title="NetworkView class definition." alt="" coords="1857,489,2048,530"/>
+<area shape="rect" id="node24" href="$a00686.html" title="SubjectTreeItem class declaration." alt="" coords="2693,481,2900,537"/>
+<area shape="rect" id="node25" href="$a00683.html" title="SubjectTreeItem class definition." alt="" coords="3143,585,3349,641"/>
+<area shape="rect" id="node26" href="$a00644.html" title=" " alt="" coords="2386,481,2618,537"/>
+<area shape="rect" id="node27" href="$a00641.html" title="SensorDataTreeItem class definition." alt="" coords="2121,585,2353,641"/>
+<area shape="rect" id="node29" href="$a00629.html" title="MriTreeItem class definition." alt="" coords="2936,585,3119,641"/>
+<area shape="rect" id="node38" href="$a01271.html" title="Definition of the RapMusic Algorithm Class." alt="" coords="3503,489,3679,530"/>
+<area shape="rect" id="node37" href="$a01265.html" title="Definition of the PwlRapMusic Algorithm Class." alt="" coords="3696,593,3895,634"/>
+</map>

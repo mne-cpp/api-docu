@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['eeg_5fels_6231',['eeg_els',['../a02760.html#aec4d07001fdae2152b3a8dba5b7f8077',1,'INVERSELIB::DipoleFitData']]],
+  ['eeg_5floc_6232',['eeg_loc',['../a02476.html#ab28c0d5c145bc797397bfc8c7bdccc82',1,'FIFFLIB::FiffChInfo']]],
+  ['eeg_5fmodel_6233',['eeg_model',['../a02760.html#ae607ee8554cd0c345a25bb379f725ec3',1,'INVERSELIB::DipoleFitData']]],
+  ['eeg_5fmodel_5ffile_6234',['eeg_model_file',['../a02596.html#ad47fdd7ecd60f2b9cd2721f23b0cc006',1,'FWDLIB::ComputeFwdSettings::eeg_model_file()'],['../a02764.html#ae99703b2e95b32421b4b0d583ce04579',1,'INVERSELIB::DipoleFitSettings::eeg_model_file()']]],
+  ['eeg_5fmodel_5fname_6235',['eeg_model_name',['../a02596.html#ab153752ba7e85207eb394ae72e752bd5',1,'FWDLIB::ComputeFwdSettings::eeg_model_name()'],['../a02764.html#a8d6de5ba56bd1ff44c1c8f167e709936',1,'INVERSELIB::DipoleFitSettings::eeg_model_name()']]],
+  ['eeg_5freg_6236',['eeg_reg',['../a02764.html#aca8c8b2cec5b9ca36ee7df8074a839ed',1,'INVERSELIB::DipoleFitSettings']]],
+  ['eeg_5fsphere_5frad_6237',['eeg_sphere_rad',['../a02596.html#abd822fb2b2317ee319d5842fd81401b5',1,'FWDLIB::ComputeFwdSettings::eeg_sphere_rad()'],['../a02764.html#a4cbf654ab40151ce04d8793aa726c073',1,'INVERSELIB::DipoleFitSettings::eeg_sphere_rad()']]],
+  ['eig_6238',['eig',['../a02488.html#ac810f54346915d9fa64e1350d12235ce',1,'FIFFLIB::FiffCov']]],
+  ['eigen_5ffields_6239',['eigen_fields',['../a03268.html#afa1e75cae521fc1294566642690dec8f',1,'MNELIB::MNEInverseOperator']]],
+  ['eigen_5fleads_6240',['eigen_leads',['../a03268.html#a6870a0739253fd78ca58b8e1bbbb98e2',1,'MNELIB::MNEInverseOperator']]],
+  ['eigen_5fleads_5fweighted_6241',['eigen_leads_weighted',['../a03268.html#a5d27190215db612df4141865f4340e07',1,'MNELIB::MNEInverseOperator']]],
+  ['eigvec_6242',['eigvec',['../a02488.html#a2e99f614a0b56bf93eb7dd0792a5f606',1,'FIFFLIB::FiffCov']]],
+  ['endian_6243',['endian',['../a02468.html#adf1ace9f1a93518db18b26e97b11929a',1,'FIFFLIB::_fiff_data_ref']]],
+  ['ent_6244',['ent',['../a02552.html#ad1b7515d555d643f4fc4d9456786bdfc',1,'FIFFLIB::FiffRawDir']]],
+  ['epoch_6245',['epoch',['../a03232.html#a88abd28efd26091fa4028a343037e57a',1,'MNELIB::MNEEpochData']]],
+  ['event_6246',['event',['../a03232.html#aef887d7c3d8dc9eea2ae45b865e30ece',1,'MNELIB::MNEEpochData']]],
+  ['event_5fbits_6247',['event_bits',['../a02460.html#af31a5d672cccc835945c7745c7bfb039',1,'FIFFLIB::_fiff_hpi_coil']]],
+  ['event_5fchannel_6248',['event_channel',['../a02460.html#a5c53d70e4fa3079d1946d585a3033ba2',1,'FIFFLIB::_fiff_hpi_coil']]],
+  ['eventupdatetypestring_6249',['EventUpdateTypeString',['../a00842.html#a4cceaa915083c5e9652c32c820c19b43',1,'EVENTSLIB::EVENTSINTERNAL']]],
+  ['evoked_6250',['evoked',['../a02516.html#aec48fff116de710b554d21f7f89f8fe6',1,'FIFFLIB::FiffEvokedSet']]],
+  ['ex_6251',['ex',['../a02440.html#abcb4feed1cc0635501464596147dc3c8',1,'FIFFLIB::_fiffChPosRec::ex()'],['../a02480.html#af2b7fe047a95dd173508bcb5219d3d17',1,'FIFFLIB::FiffChPos::ex()'],['../a02620.html#ae4d7b6cfd7808b86fe7b2a9777d27e79',1,'FWDLIB::FwdCoil::ex()']]],
+  ['experimenter_6252',['experimenter',['../a02528.html#adf074fe2195cc27c01aec632d5ae89eb',1,'FIFFLIB::FiffInfo']]],
+  ['ey_6253',['ey',['../a02440.html#aa209e77e63944e949a0e04c2575fb2d1',1,'FIFFLIB::_fiffChPosRec::ey()'],['../a02480.html#ae11bf8ad62d9325ccdf928f90173d6f9',1,'FIFFLIB::FiffChPos::ey()'],['../a02620.html#aa4f43e524afeb6d0cd791ee2761eaf4b',1,'FWDLIB::FwdCoil::ey()']]],
+  ['ez_6254',['ez',['../a02440.html#aef291081f18615f86f309ec369b19e90',1,'FIFFLIB::_fiffChPosRec::ez()'],['../a02480.html#af782fcbb6eae438e86849d8d33a780b5',1,'FIFFLIB::FiffChPos::ez()'],['../a02620.html#aa4dff96a0289172a54e7cb73df570d2b',1,'FWDLIB::FwdCoil::ez()']]]
+];

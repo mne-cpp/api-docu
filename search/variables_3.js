@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['d_6211',['D',['../a03244.html#ac4373f87aba03ab5117c5cf50eadc155',1,'MNELIB::RegionDataOut::D()'],['../a03260.html#ad0ecb0f2ab10a3dd976a397a4344a0a2',1,'MNELIB::RegionMTOut::D()']]],
+  ['data_6212',['data',['../a02416.html#acfcfcb4d050162edbf02850ac86e6f39',1,'FIFFLIB::FiffSparseMatrix::data()'],['../a02420.html#a2053fff4f06c88ca00bd93313e16e218',1,'FIFFLIB::_fiffTagRec::data()'],['../a02456.html#ae7cd2266a80c6b1b603ef32915762d70',1,'FIFFLIB::_fiff_sparse_matrix::data()'],['../a02488.html#acf6b4cd8232e7bbed9d780543ba76078',1,'FIFFLIB::FiffCov::data()'],['../a02492.html#a59d3cc5600aa876c0f8bcfc3b31e4e65',1,'FIFFLIB::FiffCtfComp::data()'],['../a02512.html#a338a42ce4555e43c971a1e7fb05d2ae9',1,'FIFFLIB::FiffEvoked::data()'],['../a02540.html#a0d2b3dd48396beed06b02d1e586d2af4',1,'FIFFLIB::FiffNamedMatrix::data()'],['../a02544.html#a01a8b9aef8636730c851226a12dce03e',1,'FIFFLIB::FiffProj::data()'],['../a03276.html#a196c0e7952fa974743786a14ddf6fd01',1,'MNELIB::MNESourceEstimate::data()']]],
+  ['dataname_6213',['dataname',['../a02780.html#a6dfc604982fa2339bbed152268f15585',1,'INVERSELIB::ECDSet']]],
+  ['dcanceldistance_6214',['dCancelDistance',['../a02300.html#a45cd0101b15eaf8d9ec09a32e4c031fb',1,'DISP3DLIB::RtSensorInterpolationMatWorker::InterpolationData::dCancelDistance()'],['../a02324.html#af2e44f48e4c1181d5ca90fbfc597b500',1,'DISP3DLIB::RtSourceInterpolationMatWorker::InterpolationData::dCancelDistance()']]],
+  ['depth_5fprior_6215',['depth_prior',['../a03268.html#a9e89aaac0416f3f07f6981a84552228b',1,'MNELIB::MNEInverseOperator']]],
+  ['desc_6216',['desc',['../a02544.html#a461ef684d1ef47740f56b4c1b0e84181',1,'FIFFLIB::FiffProj::desc()'],['../a02620.html#afbb6c0788a5db8bd3dbe4eefed153c2c',1,'FWDLIB::FwdCoil::desc()'],['../a02948.html#a9aea605022d142cd4daaadc028f4c1ee',1,'MNELIB::MneProjItem::desc()']]],
+  ['description_6217',['description',['../a02528.html#a3f83e9ae1fb21e7553cf4c35b1b1b8fd',1,'FIFFLIB::FiffInfo']]],
+  ['dev_5fctf_5ft_6218',['dev_ctf_t',['../a02528.html#a500a52afee39d74fc5d7efcf3469f83b',1,'FIFFLIB::FiffInfo']]],
+  ['dev_5fhead_5ft_6219',['dev_head_t',['../a02532.html#af928d3bcb3e2a26e386647587b48579e',1,'FIFFLIB::FiffInfoBase']]],
+  ['diag_6220',['diag',['../a02488.html#ad579bf4edee630f06fe0b0c4b8bc7838',1,'FIFFLIB::FiffCov']]],
+  ['diagnoise_6221',['diagnoise',['../a02764.html#ab4a64721efca3d427fb87f9858106f30',1,'INVERSELIB::DipoleFitSettings']]],
+  ['dig_6222',['dig',['../a02528.html#add2630e0a5269622bfbe15acae9ee5ac',1,'FIFFLIB::FiffInfo']]],
+  ['dig_5ftrans_6223',['dig_trans',['../a02528.html#ab5f87f59e6718c18dd682d2acc00be58',1,'FIFFLIB::FiffInfo']]],
+  ['dim_6224',['dim',['../a02488.html#a2626d9dc2dc519268629bf997f6b2dcb',1,'FIFFLIB::FiffCov']]],
+  ['dipname_6225',['dipname',['../a02764.html#ab6090b7cf9f8c88658b88f507757eb67',1,'INVERSELIB::DipoleFitSettings']]],
+  ['dir_6226',['dir',['../a02508.html#adda002a0fbc1293c3411e16b0a31c1cf',1,'FIFFLIB::FiffDirNode']]],
+  ['dir_5ftree_6227',['dir_tree',['../a02508.html#ae619e7d6485836baca339021e2a359f2',1,'FIFFLIB::FiffDirNode']]],
+  ['dist_6228',['dist',['../a03256.html#ad36acd36d7558d3a90bb4ee556972f2f',1,'MNELIB::MNEHemisphere']]],
+  ['dist_5flimit_6229',['dist_limit',['../a03256.html#ae7ab61927a9552e4f8f4004cb75218db',1,'MNELIB::MNEHemisphere']]],
+  ['do_5fbaseline_6230',['do_baseline',['../a02764.html#a5adf31b2d67b36ebe574574e3aa69161',1,'INVERSELIB::DipoleFitSettings']]]
+];

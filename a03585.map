@@ -1,0 +1,9 @@
+<map id="src/libraries/mne/mne_inverse_operator.h" name="src/libraries/mne/mne_inverse_operator.h">
+<area shape="rect" id="node1" title="MNEInverseOperator class declaration." alt="" coords="390,5,554,47"/>
+<area shape="rect" id="node2" href="$a01256.html" title="Minimum norm class declaration." alt="" coords="19,95,258,136"/>
+<area shape="rect" id="node4" href="$a01484.html" title="MNE class declaration, which provides static wrapper functions to stay consistent with mne matlab too..." alt="" coords="287,102,463,129"/>
+<area shape="rect" id="node6" href="$a03577.html" title="Definition of the MNEInverseOperator Class." alt="" coords="487,95,652,136"/>
+<area shape="rect" id="node7" href="$a01637.html" title="Definition of the RtInvOp Class." alt="" coords="677,95,859,136"/>
+<area shape="rect" id="node3" href="$a01253.html" title="Definition of the MinimumNorm Class." alt="" coords="5,184,259,225"/>
+<area shape="rect" id="node5" href="$a01481.html" title="Definition of the MNE Wrapper Class." alt="" coords="283,191,474,218"/>
+</map>

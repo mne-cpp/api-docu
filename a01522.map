@@ -1,0 +1,8 @@
+<map id="src/libraries/mne/mne_epoch_data_list.h" name="src/libraries/mne/mne_epoch_data_list.h">
+<area shape="rect" id="node1" title="MNEEpochDataList class declaration." alt="" coords="312,5,476,47"/>
+<area shape="rect" id="node2" href="$a01484.html" title="MNE class declaration, which provides static wrapper functions to stay consistent with mne matlab too..." alt="" coords="13,102,189,129"/>
+<area shape="rect" id="node4" href="$a01517.html" title="Definition of the MNEEpochDataList Class." alt="" coords="213,95,377,136"/>
+<area shape="rect" id="node5" href="$a01565.html" title="Averaging defintions." alt="" coords="401,95,584,136"/>
+<area shape="rect" id="node6" href="$a01613.html" title="Definition of the RtAveraging and RtAveragingWorker classes." alt="" coords="608,95,791,136"/>
+<area shape="rect" id="node3" href="$a01481.html" title="Definition of the MNE Wrapper Class." alt="" coords="5,184,196,211"/>
+</map>

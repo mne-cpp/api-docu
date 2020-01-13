@@ -1,0 +1,48 @@
+<map id="src/libraries/rtprocessing/rtprocessing_global.h" name="src/libraries/rtprocessing/rtprocessing_global.h">
+<area shape="rect" id="node1" title="realtime library export/import macros." alt="" coords="3121,5,3304,47"/>
+<area shape="rect" id="node2" href="$a01568.html" title="Averaging declarations." alt="" coords="568,95,751,136"/>
+<area shape="rect" id="node4" href="$a01598.html" title="The FilterKernel class represents a filter object that generates the FIR filter coefficients using Pa..." alt="" coords="1499,95,1681,136"/>
+<area shape="rect" id="node19" href="$a01580.html" title="Filter declarations." alt="" coords="387,184,569,225"/>
+<area shape="rect" id="node21" href="$a01592.html" title="FilterIO class declaration." alt="" coords="1741,184,1924,225"/>
+<area shape="rect" id="node24" href="$a01574.html" title="DetectTrigger declarations." alt="" coords="2344,95,2527,136"/>
+<area shape="rect" id="node27" href="$a01586.html" title="Declaration of the CosineFilter class." alt="" coords="3016,95,3199,136"/>
+<area shape="rect" id="node29" href="$a01604.html" title=" " alt="" coords="3223,95,3413,136"/>
+<area shape="rect" id="node31" href="$a01610.html" title="ICP declarations." alt="" coords="3437,95,3620,136"/>
+<area shape="rect" id="node33" href="$a01616.html" title="Declaration of the RtAveraging and RtAveragingWorker classes." alt="" coords="2576,95,2759,136"/>
+<area shape="rect" id="node34" href="$a01622.html" title="RtConnectivity class declaration." alt="" coords="3644,95,3827,136"/>
+<area shape="rect" id="node36" href="$a01628.html" title="RtCov class declaration." alt="" coords="3851,95,4033,136"/>
+<area shape="rect" id="node38" href="$a01634.html" title="RtHpi class declaration." alt="" coords="4057,95,4240,136"/>
+<area shape="rect" id="node40" href="$a01640.html" title="RtInvOp class declaration." alt="" coords="4264,95,4447,136"/>
+<area shape="rect" id="node42" href="$a01646.html" title="RtNoise class declaration." alt="" coords="4471,95,4653,136"/>
+<area shape="rect" id="node44" href="$a01649.html" title="rtprocessing library export/import macros." alt="" coords="4677,95,4860,136"/>
+<area shape="rect" id="node45" href="$a01658.html" title="Declaration of the Sphara class." alt="" coords="2809,95,2992,136"/>
+<area shape="rect" id="node3" href="$a01565.html" title="Averaging defintions." alt="" coords="5,273,188,315"/>
+<area shape="rect" id="node5" href="$a00353.html" title="Declaration of the EvokedSetModel Class." alt="" coords="1463,184,1717,225"/>
+<area shape="rect" id="node9" href="$a00305.html" title="Contains the declaration of the FilterDesignView class." alt="" coords="1087,184,1283,225"/>
+<area shape="rect" id="node12" href="$a00359.html" title="Contains the declaration of the FilterPlotScene class." alt="" coords="824,184,1063,225"/>
+<area shape="rect" id="node14" href="$a00395.html" title="Declaration of the RtFiffRawViewModel Class." alt="" coords="2000,184,2268,225"/>
+<area shape="rect" id="node17" href="$a00470.html" title="Definition of the RtFiffRawView Class." alt="" coords="2293,273,2482,315"/>
+<area shape="rect" id="node18" href="$a00977.html" title="Definition of a generic Fiff IO interface." alt="" coords="419,273,537,315"/>
+<area shape="rect" id="node23" href="$a01595.html" title="Contains all FilterKernel." alt="" coords="3223,184,3405,225"/>
+<area shape="rect" id="node6" href="$a00224.html" title="Definition of the AverageLayoutView Class." alt="" coords="1611,273,1843,315"/>
+<area shape="rect" id="node7" href="$a00248.html" title="Definition of the ButterflyView class." alt="" coords="1868,273,2061,315"/>
+<area shape="rect" id="node8" href="$a00350.html" title="Definition of the EvokedSetModel Class." alt="" coords="1319,273,1587,315"/>
+<area shape="rect" id="node10" href="$a00302.html" title="Definition of the FilterDesignView class." alt="" coords="839,273,1050,315"/>
+<area shape="rect" id="node11" href="$a00308.html" title="Definition of the FilterSettingsView Class." alt="" coords="1075,273,1295,315"/>
+<area shape="rect" id="node13" href="$a00356.html" title="Definition of the FilterPlotScene class." alt="" coords="562,273,815,315"/>
+<area shape="rect" id="node15" href="$a00386.html" title="Definition of the RtFiffRawViewDelegate Class." alt="" coords="2506,273,2805,315"/>
+<area shape="rect" id="node16" href="$a00392.html" title="Definition of the RtFiffRawViewModel Class." alt="" coords="2829,273,3111,315"/>
+<area shape="rect" id="node20" href="$a01577.html" title="Filter definitions." alt="" coords="212,273,395,315"/>
+<area shape="rect" id="node22" href="$a01589.html" title="Definition of the FilterIO class." alt="" coords="2085,273,2268,315"/>
+<area shape="rect" id="node25" href="$a01571.html" title="DetectTrigger definitions." alt="" coords="2344,184,2527,225"/>
+<area shape="rect" id="node26" href="$a01613.html" title="Definition of the RtAveraging and RtAveragingWorker classes." alt="" coords="2551,184,2733,225"/>
+<area shape="rect" id="node28" href="$a01583.html" title="Definition of the CosineFilter class." alt="" coords="3016,184,3199,225"/>
+<area shape="rect" id="node30" href="$a01601.html" title=" " alt="" coords="3429,184,3633,225"/>
+<area shape="rect" id="node32" href="$a01607.html" title="ICP class definition." alt="" coords="3657,184,3840,225"/>
+<area shape="rect" id="node35" href="$a01619.html" title="Definition of the RtConnectivity Class." alt="" coords="3864,184,4047,225"/>
+<area shape="rect" id="node37" href="$a01625.html" title="Definition of the RtCov Class." alt="" coords="4071,184,4253,225"/>
+<area shape="rect" id="node39" href="$a01631.html" title="Definition of the RtHpi Class." alt="" coords="4277,184,4460,225"/>
+<area shape="rect" id="node41" href="$a01637.html" title="Definition of the RtInvOp Class." alt="" coords="4484,184,4667,225"/>
+<area shape="rect" id="node43" href="$a01643.html" title="Definition of the RtNoise Class." alt="" coords="4691,184,4873,225"/>
+<area shape="rect" id="node46" href="$a01655.html" title="Definition of the Sphara class." alt="" coords="2809,184,2992,225"/>
+</map>

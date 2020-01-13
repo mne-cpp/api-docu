@@ -1,0 +1,5 @@
+<map id="DISPLIB::FilterPlotScene" name="DISPLIB::FilterPlotScene">
+<area shape="rect" id="node1" title="The FilterPlotScene class provides the scene where a filter response can be plotted." alt="" coords="5,476,240,788"/>
+<area shape="rect" id="node2" href="$a02048.html" title="The LayoutScene class provides a reimplemented QGraphicsScene for 2D layout plotting...." alt="" coords="19,131,226,428"/>
+<area shape="rect" id="node3" title=" " alt="" coords="59,5,187,83"/>
+</map>

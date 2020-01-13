@@ -1,0 +1,5 @@
+<map id="COMMUNICATIONLIB::RawCommand" name="COMMUNICATIONLIB::RawCommand">
+<area shape="rect" id="node1" title="RawCommand." alt="" coords="5,145,267,340"/>
+<area shape="rect" id="node2" title=" " alt="" coords="28,13,103,90"/>
+<area shape="rect" id="node3" href="$a03376.html" title="The ICommand interface provides the base class of every command of the command design pattern." alt="" coords="127,5,286,97"/>
+</map>

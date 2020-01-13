@@ -1,0 +1,8 @@
+<map id="DISP3DLIB::BemSurfaceTreeItem" name="DISP3DLIB::BemSurfaceTreeItem">
+<area shape="rect" id="node1" title="BemSurfaceTreeItem provides a generic brain tree item to hold BEM surfaces." alt="" coords="120,1269,355,1376"/>
+<area shape="rect" id="node2" href="$a02176.html" title="Provides a generic mesh tree item." alt="" coords="110,968,365,1221"/>
+<area shape="rect" id="node3" href="$a02172.html" title="Provides the basic tree item." alt="" coords="116,579,359,920"/>
+<area shape="rect" id="node4" href="$a02156.html" title="Base class for renederable 3D QEntities." alt="" coords="5,131,259,531"/>
+<area shape="rect" id="node5" title=" " alt="" coords="61,5,203,83"/>
+<area shape="rect" id="node6" title=" " alt="" coords="283,292,403,369"/>
+</map>

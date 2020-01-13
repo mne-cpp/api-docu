@@ -1,0 +1,47 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="5,1699,84,1725"/>
+<area shape="rect" id="node2" href="$a02348.html" title="Adapter which provides the abstract class for all adapter views." alt="" coords="147,81,331,108"/>
+<area shape="rect" id="node6" href="$a01936.html" title="The AbstractView class provides the base calss for all Disp viewers." alt="" coords="156,917,323,944"/>
+<area shape="rect" id="node37" href="$a01904.html" title="Bar class for histogram display using QtCharts." alt="" coords="188,1611,291,1637"/>
+<area shape="rect" id="node38" href="$a02028.html" title="The DraggableFramelessWidget class provides draggable and frameless QWidget." alt="" coords="132,1662,347,1703"/>
+<area shape="rect" id="node40" href="$a01908.html" title="Base class for graphs." alt="" coords="180,1728,299,1755"/>
+<area shape="rect" id="node43" href="$a02064.html" title="The ScaleControl class packs together a QLabel, a DoubleSpinbox and a Slider with the necessary facil..." alt="" coords="158,1779,321,1805"/>
+<area shape="rect" id="node44" href="$a01928.html" title="Spline class for histogram display using Qtcharts/QSpline." alt="" coords="179,1829,299,1856"/>
+<area shape="rect" id="node45" href="$a01932.html" title="Vector plot." alt="" coords="179,1880,300,1907"/>
+<area shape="rect" id="node3" href="$a02352.html" title="Visualizes ECD data." alt="" coords="447,5,605,32"/>
+<area shape="rect" id="node4" href="$a02356.html" title="Visualizes ECD data." alt="" coords="433,56,619,83"/>
+<area shape="rect" id="node5" href="$a02360.html" title="Visualizes ECD data." alt="" coords="410,107,642,133"/>
+<area shape="rect" id="node7" href="$a01940.html" title=" " alt="" coords="445,157,607,184"/>
+<area shape="rect" id="node8" href="$a01944.html" title="The ArtifactSettingsView class provides an artifact rejection settings view." alt="" coords="419,208,633,235"/>
+<area shape="rect" id="node9" href="$a01948.html" title="The AverageLayoutView class provides a widget for a 2D average layout." alt="" coords="421,259,631,285"/>
+<area shape="rect" id="node10" href="$a01952.html" title="The AverageSelectionView class provides a view to activate and choose colors for different averages." alt="" coords="413,309,639,336"/>
+<area shape="rect" id="node11" href="$a01956.html" title="The AveragingSettingsView class provides a averaging settings view." alt="" coords="411,360,641,387"/>
+<area shape="rect" id="node12" href="$a01960.html" title="The DataManagerView class provides the plugin control." alt="" coords="456,411,596,437"/>
+<area shape="rect" id="node13" href="$a01968.html" title="The ChannelSelectionView class provides a channel selection window." alt="" coords="413,461,639,488"/>
+<area shape="rect" id="node14" href="$a01972.html" title="The CompensatorView class provides a view to select the compensators." alt="" coords="427,512,625,539"/>
+<area shape="rect" id="node15" href="$a01976.html" title="The ConnectivitySettingsView class provides a view to control settings for estiamting functional conn..." alt="" coords="403,563,649,589"/>
+<area shape="rect" id="node16" href="$a01980.html" title="User GUI control for the View3D." alt="" coords="437,613,615,640"/>
+<area shape="rect" id="node17" href="$a01984.html" title=" " alt="" coords="425,664,627,691"/>
+<area shape="rect" id="node18" href="$a01988.html" title="User GUI control for Covariance estimation." alt="" coords="407,715,645,741"/>
+<area shape="rect" id="node19" href="$a01992.html" title=" " alt="" coords="441,765,611,792"/>
+<area shape="rect" id="node20" href="$a01996.html" title="The FiffRawViewSettings class provides a view to select different channel data view dependent setting..." alt="" coords="419,816,633,843"/>
+<area shape="rect" id="node21" href="$a02000.html" title="The FilterDesignView class provides the a manager for temporal filtering." alt="" coords="431,867,621,893"/>
+<area shape="rect" id="node22" href="$a02004.html" title="The FilterSettingsView class provides a view to select between different modalities." alt="" coords="427,917,625,944"/>
+<area shape="rect" id="node23" href="$a02008.html" title="The FwdSettingsView class provides a QWidget for the real&#45;time Forward Solution controls." alt="" coords="430,968,622,995"/>
+<area shape="rect" id="node24" href="$a02080.html" title="The HpiSettingsView class provides a QWidget for the HPI controls." alt="" coords="433,1019,619,1045"/>
+<area shape="rect" id="node25" href="$a02084.html" title="The MinimumNormSettingsView class provides a view to control settings for estiamting functional conne..." alt="" coords="395,1069,657,1096"/>
+<area shape="rect" id="node26" href="$a02088.html" title="The ModalitySelectionView class provides a view to select between different modalities." alt="" coords="411,1120,641,1147"/>
+<area shape="rect" id="node27" href="$a02100.html" title=" " alt="" coords="442,1171,610,1197"/>
+<area shape="rect" id="node28" href="$a02104.html" title="The ProjectorsView class provides a view to select projectors." alt="" coords="437,1221,615,1248"/>
+<area shape="rect" id="node29" href="$a02108.html" title="The ProjectSettingsView class provides a viewer to setup and manage the file name before the acquisit..." alt="" coords="421,1272,631,1299"/>
+<area shape="rect" id="node30" href="$a02116.html" title="The RtFiffRawView class provides a real&#45;time channel view display." alt="" coords="439,1323,613,1349"/>
+<area shape="rect" id="node31" href="$a02120.html" title="The ScalingView class provides a view to select the scaling for different channels modalities." alt="" coords="447,1373,605,1400"/>
+<area shape="rect" id="node32" href="$a02124.html" title="The SpectrumSettingsView class provides settings for the spectrum estimation." alt="" coords="413,1424,639,1451"/>
+<area shape="rect" id="node33" href="$a02128.html" title="The SpectrumView class provides a spectrum view." alt="" coords="439,1475,613,1501"/>
+<area shape="rect" id="node34" href="$a02132.html" title="The SpharaSettingsView class provides a view to select the SPHARA settings." alt="" coords="421,1525,631,1552"/>
+<area shape="rect" id="node35" href="$a02136.html" title="The TfSettingsView class provides a view to control settings for time frequency analysis." alt="" coords="437,1576,615,1603"/>
+<area shape="rect" id="node36" href="$a02140.html" title="The TriggerDetectionView class provides a view to control the trigger detection." alt="" coords="417,1627,635,1653"/>
+<area shape="rect" id="node39" href="$a02112.html" title="The QuickControlView class provides a quick control view for scaling, filtering, projector and other ..." alt="" coords="428,1677,624,1704"/>
+<area shape="rect" id="node41" href="$a01916.html" title="Eigen matrix visualization." alt="" coords="458,1728,594,1755"/>
+<area shape="rect" id="node42" href="$a01924.html" title="Vector plot." alt="" coords="473,1779,579,1805"/>
+</map>

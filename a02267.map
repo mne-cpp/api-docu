@@ -1,0 +1,5 @@
+<map id="DISP3DLIB::NetworkMaterial" name="DISP3DLIB::NetworkMaterial">
+<area shape="rect" id="node1" title="NetworkMaterial is provides a Qt3D material with own shader support." alt="" coords="23,461,230,553"/>
+<area shape="rect" id="node2" href="$a02256.html" title="This abstract class is used as a base class for all materials that are using the phong alpha lightini..." alt="" coords="5,131,248,413"/>
+<area shape="rect" id="node3" title=" " alt="" coords="83,5,170,83"/>
+</map>

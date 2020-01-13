@@ -1,0 +1,5 @@
+<map id="COMMUNICATIONLIB::Command" name="COMMUNICATIONLIB::Command">
+<area shape="rect" id="node1" title="Command." alt="" coords="5,145,239,443"/>
+<area shape="rect" id="node2" title=" " alt="" coords="14,13,89,90"/>
+<area shape="rect" id="node3" href="$a03376.html" title="The ICommand interface provides the base class of every command of the command design pattern." alt="" coords="113,5,272,97"/>
+</map>

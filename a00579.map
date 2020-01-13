@@ -1,0 +1,52 @@
+<map id="src/libraries/disp3D/engine/model/items/common/gpuinterpolationitem.cpp" name="src/libraries/disp3D/engine/model/items/common/gpuinterpolationitem.cpp">
+<area shape="rect" id="node1" title="GpuInterpolationItem class definition." alt="" coords="2962,5,3179,61"/>
+<area shape="rect" id="node2" href="$a00581.html" title="GpuInterpolationItem class declaration." alt="" coords="2495,109,2665,136"/>
+<area shape="rect" id="node9" title=" " alt="" coords="1922,355,2059,382"/>
+<area shape="rect" id="node42" href="$a00704.html" title="GpuInterpolationMaterial class declaration." alt="" coords="2230,184,2517,211"/>
+<area shape="rect" id="node45" href="$a00527.html" title="CustomMesh class declaration." alt="" coords="2895,109,3105,136"/>
+<area shape="rect" id="node46" title=" " alt="" coords="3329,184,3567,211"/>
+<area shape="rect" id="node48" title=" " alt="" coords="3181,109,3345,136"/>
+<area shape="rect" id="node49" title=" " alt="" coords="3369,109,3610,136"/>
+<area shape="rect" id="node50" title=" " alt="" coords="3634,109,3705,136"/>
+<area shape="rect" id="node3" href="$a00515.html" title="disp3D library export/import macros." alt="" coords="2599,348,2713,389"/>
+<area shape="rect" id="node7" href="$a00563.html" title="Abstract3DTreeItem class declaration." alt="" coords="1760,184,1995,211"/>
+<area shape="rect" id="node11" title=" " alt="" coords="2495,355,2574,382"/>
+<area shape="rect" id="node16" title=" " alt="" coords="1576,601,1699,628"/>
+<area shape="rect" id="node39" title=" " alt="" coords="2824,184,2963,211"/>
+<area shape="rect" id="node40" title=" " alt="" coords="2643,184,2799,211"/>
+<area shape="rect" id="node41" title=" " alt="" coords="2019,184,2155,211"/>
+<area shape="rect" id="node4" title=" " alt="" coords="1640,676,1771,703"/>
+<area shape="rect" id="node5" href="$a01661.html" title="build information utils" alt="" coords="2243,676,2365,703"/>
+<area shape="rect" id="node6" title=" " alt="" coords="2271,751,2337,777"/>
+<area shape="rect" id="node8" href="$a00539.html" title="Renderable3DEntity class declaration." alt="" coords="1981,259,2173,300"/>
+<area shape="rect" id="node13" href="$a00590.html" title="Contains general application specific types." alt="" coords="1479,266,1550,293"/>
+<area shape="rect" id="node36" title=" " alt="" coords="5,355,125,382"/>
+<area shape="rect" id="node10" title=" " alt="" coords="2084,355,2175,382"/>
+<area shape="rect" id="node12" title=" " alt="" coords="887,676,979,703"/>
+<area shape="rect" id="node14" href="$a01055.html" title="Label class declaration." alt="" coords="2092,527,2175,553"/>
+<area shape="rect" id="node18" href="$a01199.html" title="FiffDigPointSet class declaration." alt="" coords="1433,437,1591,479"/>
+<area shape="rect" id="node24" href="$a00968.html" title="FiffInfo class declaration." alt="" coords="860,355,964,382"/>
+<area shape="rect" id="node37" title=" " alt="" coords="1466,355,1563,382"/>
+<area shape="rect" id="node38" title=" " alt="" coords="1588,355,1695,382"/>
+<area shape="rect" id="node15" href="$a01049.html" title="Fs library export/import macros." alt="" coords="2481,601,2575,628"/>
+<area shape="rect" id="node17" title=" " alt="" coords="2103,601,2163,628"/>
+<area shape="rect" id="node19" href="$a01250.html" title="inverse library export/import macros." alt="" coords="1411,601,1552,628"/>
+<area shape="rect" id="node20" href="$a01193.html" title="Electric Current Dipole (ECD) class declaration." alt="" coords="1434,527,1491,553"/>
+<area shape="rect" id="node22" title=" " alt="" coords="161,676,215,703"/>
+<area shape="rect" id="node23" title=" " alt="" coords="581,601,651,628"/>
+<area shape="rect" id="node21" title=" " alt="" coords="1261,601,1336,628"/>
+<area shape="rect" id="node25" href="$a00956.html" title="Fiff library export/import macros." alt="" coords="1051,601,1149,628"/>
+<area shape="rect" id="node26" href="$a00974.html" title="FiffInfoBase class declaration." alt="" coords="753,445,874,471"/>
+<area shape="rect" id="node27" href="$a01019.html" title="Definitions for describing the objects in a FIFF file." alt="" coords="675,601,770,628"/>
+<area shape="rect" id="node29" title=" " alt="" coords="293,676,387,703"/>
+<area shape="rect" id="node30" href="$a00962.html" title="FiffId class declaration." alt="" coords="1145,527,1215,553"/>
+<area shape="rect" id="node31" href="$a00881.html" title="FiffChInfo class declaration." alt="" coords="662,527,767,553"/>
+<area shape="rect" id="node32" href="$a00914.html" title="FiffDigPoint class declaration." alt="" coords="1239,527,1358,553"/>
+<area shape="rect" id="node33" href="$a00908.html" title="FiffCtfComp class declaration." alt="" coords="843,527,962,553"/>
+<area shape="rect" id="node34" href="$a00896.html" title="FiffCoordTrans class declaration." alt="" coords="986,527,1121,553"/>
+<area shape="rect" id="node35" href="$a00992.html" title="FiffProj class declaration." alt="" coords="453,527,536,553"/>
+<area shape="rect" id="node28" href="$a00890.html" title="Fiff constants." alt="" coords="662,676,783,703"/>
+<area shape="rect" id="node43" href="$a00692.html" title="AbstractPhongAlphaMaterial class declaration." alt="" coords="2197,266,2416,293"/>
+<area shape="rect" id="node44" title=" " alt="" coords="2250,355,2419,382"/>
+<area shape="rect" id="node47" title=" " alt="" coords="3089,184,3253,211"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="src/libraries/disp3D/engine/model/items/sensordata" name="src/libraries/disp3D/engine/model/items/sensordata">
+<area shape="rect" id="node1" href="dir_17a710870ed478865b37cc75c8ad9294.html" title="sensordata" alt="" coords="148,52,243,100"/>
+<area shape="rect" id="node2" href="dir_ed45b09ef2cd0d956a5aba8227cb866f.html" title="materials" alt="" coords="6,340,90,388"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000030_000035.html" title="1" alt="" coords="32,312,41,327"/>
+<area shape="rect" id="node3" href="dir_408a60379c4e15f981cf11473c427f89.html" title="workers" alt="" coords="38,148,111,196"/>
+<area shape="rect" id="edge8-headlabel" href="dir_000030_000036.html" title="1" alt="" coords="119,136,128,151"/>
+<area shape="rect" id="node4" href="dir_54b79093b174ab0de96e1a66f84ed670.html" title="measurement" alt="" coords="187,148,300,196"/>
+<area shape="rect" id="edge9-headlabel" href="dir_000030_000027.html" title="1" alt="" coords="217,121,227,135"/>
+<area shape="rect" id="node5" href="dir_aaeba049e8bbc472f18d1508b9ef9ec0.html" title="mne" alt="" coords="246,244,318,292"/>
+<area shape="rect" id="edge10-headlabel" href="dir_000030_000051.html" title="1" alt="" coords="309,225,318,239"/>
+<area shape="rect" id="node6" href="dir_31b5311dd2b71e10804bd2d3e6cc10bd.html" title="common" alt="" coords="110,244,188,292"/>
+<area shape="rect" id="edge11-headlabel" href="dir_000030_000023.html" title="4" alt="" coords="160,220,170,235"/>
+<area shape="rect" id="node7" href="dir_f122f5044bc86562566561fdd2b03a88.html" title="3dhelpers" alt="" coords="160,340,247,388"/>
+<area shape="rect" id="edge12-headlabel" href="dir_000030_000020.html" title="1" alt="" coords="263,344,272,359"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000036_000023.html" title="3" alt="" coords="121,217,131,232"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000027_000030.html" title="1" alt="" coords="213,113,222,128"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000027_000051.html" title="4" alt="" coords="269,217,278,231"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000027_000023.html" title="1" alt="" coords="186,230,196,244"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000023_000035.html" title="5" alt="" coords="87,326,96,341"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000023_000020.html" title="3" alt="" coords="184,313,193,327"/>
+<area shape="rect" id="clust1" href="dir_fdad77bffebda15cd8896c787fdc7858.html" title="items" alt="" coords="137,16,254,111"/>
+</map>

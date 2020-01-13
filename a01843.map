@@ -1,0 +1,13 @@
+<map id="CONNECTIVITYLIB::AbstractMetric" name="CONNECTIVITYLIB::AbstractMetric">
+<area shape="rect" id="node1" title="This class provides basic functionalities for all implemented metrics." alt="" coords="1169,5,1372,127"/>
+<area shape="rect" id="node2" href="$a01848.html" title="This class computes the coherence connectivity metric." alt="" coords="5,204,221,296"/>
+<area shape="rect" id="node3" href="$a01852.html" title="This class computes the coherency connectivity metric." alt="" coords="245,197,461,303"/>
+<area shape="rect" id="node4" href="$a01856.html" title="This class computes the correlation metric." alt="" coords="485,189,704,311"/>
+<area shape="rect" id="node5" href="$a01860.html" title="This class computes the cross correlation connectivity metric." alt="" coords="729,197,983,303"/>
+<area shape="rect" id="node6" href="$a01864.html" title="This class computes the weighted phase lag index connectivity metric." alt="" coords="1008,175,1259,325"/>
+<area shape="rect" id="node7" href="$a01868.html" title="This class computes the imaginary coherence connectivity metric." alt="" coords="1283,204,1533,296"/>
+<area shape="rect" id="node8" href="$a01872.html" title="This class computes the phase lag index connectivity metric." alt="" coords="1557,182,1766,318"/>
+<area shape="rect" id="node9" href="$a01876.html" title="This class computes the phase locking value connectivity metric." alt="" coords="1790,182,2026,318"/>
+<area shape="rect" id="node10" href="$a01880.html" title="This class computes the phase lag index connectivity metric." alt="" coords="2049,182,2308,318"/>
+<area shape="rect" id="node11" href="$a01884.html" title="This class computes the phase lag index connectivity metric." alt="" coords="2332,182,2540,318"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="src/libraries/utils/generics/observerpattern.h" name="src/libraries/utils/generics/observerpattern.h">
+<area shape="rect" id="node1" title="Contains declarations of the observer design pattern: Subject class and IObserver interface." alt="" coords="749,5,950,47"/>
+<area shape="rect" id="node2" href="$a00041.html" title="Declaration of the CommandParser Class." alt="" coords="737,95,961,136"/>
+<area shape="rect" id="node3" href="$a00035_source.html" title=" " alt="" coords="579,184,821,225"/>
+<area shape="rect" id="node10" href="$a01682.html" title="Contains implementations of the observer design pattern: Subject class and IObserver interface." alt="" coords="985,95,1201,136"/>
+<area shape="rect" id="node9" href="$a00038.html" title="Declaration of the CommandParser Class." alt="" coords="853,273,1091,315"/>
+<area shape="rect" id="node4" href="$a00017.html" title="declaration of the RtCmdClient Class." alt="" coords="119,273,321,315"/>
+<area shape="rect" id="node7" href="$a00026_source.html" title=" " alt="" coords="345,273,548,315"/>
+<area shape="rect" id="node8" href="$a00032_source.html" title=" " alt="" coords="572,273,828,315"/>
+<area shape="rect" id="node5" href="$a00008.html" title="Definition of the RtClient Class." alt="" coords="5,363,208,404"/>
+<area shape="rect" id="node6" href="$a00014.html" title="Definition of the RtCmdClient Class." alt="" coords="232,363,435,404"/>
+</map>

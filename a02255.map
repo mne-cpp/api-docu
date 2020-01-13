@@ -1,0 +1,9 @@
+<map id="DISP3DLIB::AbstractPhongAlphaMaterial" name="DISP3DLIB::AbstractPhongAlphaMaterial">
+<area shape="rect" id="node1" title="This abstract class is used as a base class for all materials that are using the phong alpha lightini..." alt="" coords="515,131,758,413"/>
+<area shape="rect" id="node3" href="$a02260.html" title="Custom phong alpha material for instanced rendering." alt="" coords="5,571,244,693"/>
+<area shape="rect" id="node4" href="$a02264.html" title="Compute shader interpolation material." alt="" coords="269,461,509,803"/>
+<area shape="rect" id="node5" href="$a02268.html" title="NetworkMaterial is provides a Qt3D material with own shader support." alt="" coords="533,586,740,678"/>
+<area shape="rect" id="node6" href="$a02272.html" title="PerVertexPhongAlphaMaterial is provides a Qt3D material with own shader support." alt="" coords="764,579,1016,685"/>
+<area shape="rect" id="node7" href="$a02276.html" title="PerVertexTessPhongAlphaMaterial is provides a Qt3D material with own shader support." alt="" coords="1041,571,1310,693"/>
+<area shape="rect" id="node2" title=" " alt="" coords="593,5,680,83"/>
+</map>

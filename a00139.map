@@ -1,0 +1,35 @@
+<map id="src/libraries/connectivity/network/network.h" name="src/libraries/connectivity/network/network.h">
+<area shape="rect" id="node1" title="Network class declaration." alt="" coords="2089,5,2272,47"/>
+<area shape="rect" id="node2" href="$a00050.html" title="Connectivity class definition." alt="" coords="5,102,188,143"/>
+<area shape="rect" id="node3" href="$a00074.html" title="Coherence class declaration." alt="" coords="212,102,395,143"/>
+<area shape="rect" id="node4" href="$a00080.html" title="Coherency class declaration." alt="" coords="419,102,601,143"/>
+<area shape="rect" id="node5" href="$a00086.html" title="Correlation class definition." alt="" coords="625,102,808,143"/>
+<area shape="rect" id="node6" href="$a00092.html" title="CrossCorrelation class definition." alt="" coords="833,102,1043,143"/>
+<area shape="rect" id="node7" href="$a00098.html" title="DebiasedSquaredWeightedPhaseLagIndex class definition." alt="" coords="1068,102,1440,143"/>
+<area shape="rect" id="node8" href="$a00104.html" title="Imaginary coherence class declaration." alt="" coords="1464,102,1671,143"/>
+<area shape="rect" id="node9" href="$a00110.html" title="PhaseLagIndex class definition." alt="" coords="1695,102,1896,143"/>
+<area shape="rect" id="node10" href="$a00116.html" title="PhaseLockingValue class definition." alt="" coords="1920,102,2148,143"/>
+<area shape="rect" id="node11" href="$a00122.html" title="UnbiasedSquaredPhaseLagIndex class definition." alt="" coords="2173,102,2485,143"/>
+<area shape="rect" id="node12" href="$a00128.html" title="WeightedPhaseLagIndex class definition." alt="" coords="2509,102,2770,143"/>
+<area shape="rect" id="node13" href="$a00134.html" title="Network class definition." alt="" coords="2795,102,2977,143"/>
+<area shape="rect" id="node14" href="$a00545.html" title="Data3DTreeModel class declaration." alt="" coords="3002,102,3247,143"/>
+<area shape="rect" id="node20" href="$a00803.html" title="NetworkView class definition." alt="" coords="3176,206,3367,247"/>
+<area shape="rect" id="node22" href="$a00626.html" title="MeasurementTreeItem class declaration." alt="" coords="3401,95,3651,151"/>
+<area shape="rect" id="node28" href="$a00632.html" title="MriTreeItem class declaration." alt="" coords="3724,199,3907,255"/>
+<area shape="rect" id="node30" href="$a00638.html" title="NetworkTreeItem class declaration." alt="" coords="3967,95,4181,151"/>
+<area shape="rect" id="node32" href="$a01622.html" title="RtConnectivity class declaration." alt="" coords="4455,102,4637,143"/>
+<area shape="rect" id="node15" href="$a00518.html" title="Data3DTreeDelegate class definition." alt="" coords="1936,206,2228,247"/>
+<area shape="rect" id="node16" href="$a00542.html" title="Data3DTreeModel class definition." alt="" coords="3467,310,3727,351"/>
+<area shape="rect" id="node17" href="$a00779.html" title="View3D class definition." alt="" coords="2252,206,2437,247"/>
+<area shape="rect" id="node18" href="$a03565.html" title="AbstractView class definition." alt="" coords="2461,206,2652,247"/>
+<area shape="rect" id="node19" href="$a00797.html" title="ECDView class definition." alt="" coords="2676,206,2837,247"/>
+<area shape="rect" id="node21" href="$a00809.html" title="SourceEstimateView class definition." alt="" coords="2861,206,3100,247"/>
+<area shape="rect" id="node23" href="$a00686.html" title="SubjectTreeItem class declaration." alt="" coords="3493,199,3700,255"/>
+<area shape="rect" id="node24" href="$a00623.html" title="MeasurementTreeItem class definition." alt="" coords="3958,303,4209,359"/>
+<area shape="rect" id="node25" href="$a00683.html" title="SubjectTreeItem class definition." alt="" coords="3236,303,3443,359"/>
+<area shape="rect" id="node26" href="$a00644.html" title=" " alt="" coords="3982,199,4214,255"/>
+<area shape="rect" id="node27" href="$a00641.html" title="SensorDataTreeItem class definition." alt="" coords="4233,303,4465,359"/>
+<area shape="rect" id="node29" href="$a00629.html" title="MriTreeItem class definition." alt="" coords="3751,303,3933,359"/>
+<area shape="rect" id="node31" href="$a00635.html" title="NetworkTreeItem class definition." alt="" coords="4289,199,4502,255"/>
+<area shape="rect" id="node33" href="$a01619.html" title="Definition of the RtConnectivity Class." alt="" coords="4527,206,4709,247"/>
+</map>

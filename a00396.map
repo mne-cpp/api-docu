@@ -1,0 +1,45 @@
+<map id="src/libraries/disp/viewers/helpers/rtfiffrawviewmodel.h" name="src/libraries/disp/viewers/helpers/rtfiffrawviewmodel.h">
+<area shape="rect" id="node1" title="Declaration of the RtFiffRawViewModel Class." alt="" coords="1368,5,1636,47"/>
+<area shape="rect" id="node2" href="$a00155.html" title="disp library export/import macros." alt="" coords="1721,408,1853,435"/>
+<area shape="rect" id="node6" href="$a01019.html" title="Definitions for describing the objects in a FIFF file." alt="" coords="1134,251,1249,278"/>
+<area shape="rect" id="node8" title=" " alt="" coords="519,333,611,360"/>
+<area shape="rect" id="node13" href="$a00992.html" title="FiffProj class declaration." alt="" coords="721,95,825,121"/>
+<area shape="rect" id="node18" title=" " alt="" coords="1273,251,1395,278"/>
+<area shape="rect" id="node20" href="$a01598.html" title="The FilterKernel class represents a filter object that generates the FIR filter coefficients using Pa..." alt="" coords="187,244,342,285"/>
+<area shape="rect" id="node25" href="$a00830.html" title="EventManager declaration." alt="" coords="1559,95,1735,121"/>
+<area shape="rect" id="node41" title=" " alt="" coords="2134,95,2294,121"/>
+<area shape="rect" id="node42" title=" " alt="" coords="2318,95,2385,121"/>
+<area shape="rect" id="node43" title=" " alt="" coords="2409,95,2545,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="1229,483,1359,509"/>
+<area shape="rect" id="node4" href="$a01661.html" title="build information utils" alt="" coords="1383,483,1506,509"/>
+<area shape="rect" id="node5" title=" " alt="" coords="1411,557,1478,584"/>
+<area shape="rect" id="node7" href="$a00890.html" title="Fiff constants." alt="" coords="1007,333,1128,360"/>
+<area shape="rect" id="node9" title=" " alt="" coords="1255,333,1309,360"/>
+<area shape="rect" id="node10" title=" " alt="" coords="866,333,959,360"/>
+<area shape="rect" id="node11" title=" " alt="" coords="1334,333,1390,360"/>
+<area shape="rect" id="node12" title=" " alt="" coords="1152,333,1231,360"/>
+<area shape="rect" id="node14" href="$a00956.html" title="Fiff library export/import macros." alt="" coords="1245,408,1343,435"/>
+<area shape="rect" id="node15" href="$a00986.html" title="FiffNamedMatrix class declaration." alt="" coords="836,169,989,196"/>
+<area shape="rect" id="node19" title=" " alt="" coords="372,333,443,360"/>
+<area shape="rect" id="node16" title=" " alt="" coords="951,251,1059,278"/>
+<area shape="rect" id="node17" title=" " alt="" coords="721,251,875,278"/>
+<area shape="rect" id="node21" href="$a01652.html" title="realtime library export/import macros." alt="" coords="1047,408,1221,435"/>
+<area shape="rect" id="node22" title=" " alt="" coords="5,333,100,360"/>
+<area shape="rect" id="node23" title=" " alt="" coords="124,333,197,360"/>
+<area shape="rect" id="node24" title=" " alt="" coords="222,333,297,360"/>
+<area shape="rect" id="node26" href="$a00836.html" title="event library export/import macros." alt="" coords="1382,408,1507,435"/>
+<area shape="rect" id="node27" href="$a00818.html" title="Event declaration." alt="" coords="1521,251,1592,278"/>
+<area shape="rect" id="node28" href="$a00824.html" title="EventGroup declaration." alt="" coords="1521,333,1629,360"/>
+<area shape="rect" id="node29" title=" " alt="" coords="1638,408,1697,435"/>
+<area shape="rect" id="node31" href="$a00842.html" title="EventSharedMemManager definition." alt="" coords="1792,169,1999,196"/>
+<area shape="rect" id="node32" title=" " alt="" coords="1617,251,1694,278"/>
+<area shape="rect" id="node38" title=" " alt="" coords="2158,169,2209,196"/>
+<area shape="rect" id="node39" title=" " alt="" coords="2233,169,2357,196"/>
+<area shape="rect" id="node40" title=" " alt="" coords="1471,169,1533,196"/>
+<area shape="rect" id="node30" title=" " alt="" coords="1542,408,1609,435"/>
+<area shape="rect" id="node33" title=" " alt="" coords="1923,251,1990,278"/>
+<area shape="rect" id="node34" title=" " alt="" coords="2065,251,2129,278"/>
+<area shape="rect" id="node35" title=" " alt="" coords="2153,251,2217,278"/>
+<area shape="rect" id="node36" title=" " alt="" coords="2241,251,2307,278"/>
+<area shape="rect" id="node37" title=" " alt="" coords="1769,251,1899,278"/>
+</map>

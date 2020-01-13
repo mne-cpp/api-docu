@@ -1,0 +1,4 @@
+<map id="DISP3DLIB::RtSourceDataController" name="DISP3DLIB::RtSourceDataController">
+<area shape="rect" id="node1" title="This controller organizes data streaming and interpolation matrix calculations. It only uses Queued s..." alt="" coords="5,131,256,575"/>
+<area shape="rect" id="node2" title=" " alt="" coords="93,5,168,83"/>
+</map>

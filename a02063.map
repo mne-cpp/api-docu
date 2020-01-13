@@ -1,0 +1,4 @@
+<map id="DISPLIB::ScaleControl" name="DISPLIB::ScaleControl">
+<area shape="rect" id="node1" title="The ScaleControl class packs together a QLabel, a DoubleSpinbox and a Slider with the necessary facil..." alt="" coords="5,131,203,355"/>
+<area shape="rect" id="node2" title=" " alt="" coords="65,5,143,83"/>
+</map>

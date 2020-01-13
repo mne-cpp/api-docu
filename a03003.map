@@ -1,0 +1,5 @@
+<map id="MNELIB::MneSurfaceOrVolume" name="MNELIB::MneSurfaceOrVolume">
+<area shape="rect" id="node1" title="This defines a source space or a surface." alt="" coords="111,5,332,420"/>
+<area shape="rect" id="node2" href="$a02988.html" title="This defines a source space." alt="" coords="5,468,219,560"/>
+<area shape="rect" id="node3" href="$a03000.html" title="This defines a surface." alt="" coords="243,468,421,560"/>
+</map>
