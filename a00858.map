@@ -1,0 +1,15 @@
+<map id="libraries/fiff/c/fiff_digitizer_data.cpp" name="libraries/fiff/c/fiff_digitizer_data.cpp">
+<area shape="rect" id="node2" href="$a00860.html" title="FiffDigitizerData class declaration. " alt="" coords="5,319,152,345"/>
+<area shape="rect" id="node16" href="$a00848.html" title="FiffCoordTransOld class declaration. " alt="" coords="613,95,774,121"/>
+<area shape="rect" id="node28" href="$a00911.html" title="FiffDigPoint class declaration. " alt="" coords="227,319,357,345"/>
+<area shape="rect" id="node3" href="$a00953.html" title="Fiff library export/import macros. " alt="" coords="319,393,430,420"/>
+<area shape="rect" id="node7" href="$a01016.html" title="Old fiff_type declarations &#45; replace them. " alt="" coords="1272,393,1379,420"/>
+<area shape="rect" id="node5" href="$a01631.html" title="build information utils " alt="" coords="237,468,360,495"/>
+<area shape="rect" id="node8" href="$a00887.html" title="Fiff constants. " alt="" coords="1426,468,1547,495"/>
+<area shape="rect" id="node17" href="$a01007.html" title="FiffStream class declaration. " alt="" coords="918,169,1034,196"/>
+<area shape="rect" id="node19" href="$a00929.html" title="FiffDirNode class declaration, which provides fiff dir tree processing methods. " alt="" coords="1315,244,1429,271"/>
+<area shape="rect" id="node18" href="$a00959.html" title="FiffId class declaration. " alt="" coords="839,319,910,345"/>
+<area shape="rect" id="node20" href="$a00923.html" title="FiffDirEntry class declaration. " alt="" coords="935,319,1049,345"/>
+<area shape="rect" id="node21" href="$a00944.html" title="Fiff block and dir tag explainations. " alt="" coords="1323,319,1429,345"/>
+<area shape="rect" id="node22" href="$a00947.html" title="Header file describing the numerical values used in fif files. " alt="" coords="1403,393,1482,420"/>
+</map>

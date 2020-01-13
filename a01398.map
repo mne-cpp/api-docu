@@ -1,0 +1,32 @@
+<map id="libraries/mne/c/mne_raw_data.h" name="libraries/mne/c/mne_raw_data.h">
+<area shape="rect" id="node2" href="$a01502.html" title="mne library export/import macros. " alt="" coords="2307,721,2429,748"/>
+<area shape="rect" id="node6" href="$a00929.html" title="FiffDirNode class declaration, which provides fiff dir tree processing methods. " alt="" coords="1475,721,1610,748"/>
+<area shape="rect" id="node20" href="$a01007.html" title="FiffStream class declaration. " alt="" coords="1380,647,1505,673"/>
+<area shape="rect" id="node26" href="$a01403.html" title="MneRawInfo class declaration. " alt="" coords="1065,483,1191,509"/>
+<area shape="rect" id="node28" href="$a01391.html" title="MneRawBufDef class declaration. " alt="" coords="2203,647,2352,673"/>
+<area shape="rect" id="node29" href="$a01385.html" title="MNEProjOp class declaration. " alt="" coords="1553,565,1671,591"/>
+<area shape="rect" id="node32" href="$a01415.html" title="MNE SSS Data (MneSssData) class declaration. " alt="" coords="4153,647,4279,673"/>
+<area shape="rect" id="node33" href="$a01271.html" title="MneCTFCompDataSet class declaration. " alt="" coords="3981,244,4174,271"/>
+<area shape="rect" id="node42" href="$a01277.html" title="MNE Derivation (MneDeriv) class declaration. " alt="" coords="2594,95,2697,121"/>
+<area shape="rect" id="node43" href="$a01442_source.html" title="mne_types.h" alt="" coords="2691,169,2797,196"/>
+<area shape="rect" id="node4" href="$a01631.html" title="build information utils " alt="" coords="2244,945,2367,972"/>
+<area shape="rect" id="node7" href="$a00953.html" title="Fiff library export/import macros. " alt="" coords="2167,871,2265,897"/>
+<area shape="rect" id="node8" href="$a00887.html" title="Fiff constants. " alt="" coords="1234,945,1355,972"/>
+<area shape="rect" id="node9" href="$a01016.html" title="Old fiff_type declarations &#45; replace them. " alt="" coords="1134,871,1229,897"/>
+<area shape="rect" id="node15" href="$a00923.html" title="FiffDirEntry class declaration. " alt="" coords="1669,796,1784,823"/>
+<area shape="rect" id="node17" href="$a00959.html" title="FiffId class declaration. " alt="" coords="1809,796,1879,823"/>
+<area shape="rect" id="node18" href="$a00944.html" title="Fiff block and dir tag explainations. " alt="" coords="1387,796,1493,823"/>
+<area shape="rect" id="node19" href="$a00947.html" title="Header file describing the numerical values used in fif files. " alt="" coords="1639,871,1718,897"/>
+<area shape="rect" id="node27" href="$a00848.html" title="FiffCoordTransOld class declaration. " alt="" coords="1373,557,1528,599"/>
+<area shape="rect" id="node30" href="$a01355.html" title="MNE Named Matrix (MneNamedMatrix) class declaration. " alt="" coords="3912,647,4077,673"/>
+<area shape="rect" id="node34" href="$a00866.html" title="FiffSparseMatrix class declaration. " alt="" coords="3599,319,3721,360"/>
+<area shape="rect" id="node35" href="$a01013.html" title="FiffTag class declaration, which provides fiff tag I/O and processing methods. " alt="" coords="2077,408,2168,435"/>
+<area shape="rect" id="node36" href="$a00893.html" title="FiffCoordTrans class declaration. " alt="" coords="1950,483,2085,509"/>
+<area shape="rect" id="node37" href="$a00878.html" title="FiffChInfo class declaration. " alt="" coords="2505,721,2610,748"/>
+<area shape="rect" id="node38" href="$a00884.html" title="FiffChPos class declaration. " alt="" coords="2305,796,2407,823"/>
+<area shape="rect" id="node39" href="$a00911.html" title="FiffDigPoint class declaration. " alt="" coords="3257,647,3375,673"/>
+<area shape="rect" id="node44" href="$a01283.html" title="MNE Derivation Set (MneDerivSet) class declaration. " alt="" coords="2949,647,3080,673"/>
+<area shape="rect" id="node45" href="$a01379.html" title="MNEProjItem class declaration. " alt="" coords="3553,647,3685,673"/>
+<area shape="rect" id="node46" href="$a01259.html" title="MneCovMatrix class declaration. " alt="" coords="2630,647,2773,673"/>
+<area shape="rect" id="node47" href="$a01265.html" title="MneCTFCompData class declaration. " alt="" coords="3577,244,3743,271"/>
+</map>

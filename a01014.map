@@ -1,0 +1,17 @@
+<map id="libraries/fiff/fiff_tag.h" name="libraries/fiff/fiff_tag.h">
+<area shape="rect" id="node2" href="$a00953.html" title="Fiff library export/import macros. " alt="" coords="1767,483,1865,509"/>
+<area shape="rect" id="node6" href="$a00887.html" title="Fiff constants. " alt="" coords="506,557,627,584"/>
+<area shape="rect" id="node7" href="$a00947.html" title="Header file describing the numerical values used in fif files. " alt="" coords="145,483,223,509"/>
+<area shape="rect" id="node8" href="$a01016.html" title="Old fiff_type declarations &#45; replace them. " alt="" coords="758,483,853,509"/>
+<area shape="rect" id="node14" href="$a00959.html" title="FiffId class declaration. " alt="" coords="1083,408,1154,435"/>
+<area shape="rect" id="node16" href="$a00893.html" title="FiffCoordTrans class declaration. " alt="" coords="1417,95,1551,121"/>
+<area shape="rect" id="node20" href="$a00923.html" title="FiffDirEntry class declaration. " alt="" coords="893,408,1008,435"/>
+<area shape="rect" id="node27" href="$a00878.html" title="FiffChInfo class declaration. " alt="" coords="1721,333,1826,360"/>
+<area shape="rect" id="node28" href="$a00884.html" title="FiffChPos class declaration. " alt="" coords="1529,408,1631,435"/>
+<area shape="rect" id="node29" href="$a00911.html" title="FiffDigPoint class declaration. " alt="" coords="1707,408,1826,435"/>
+<area shape="rect" id="node4" href="$a01631.html" title="build information utils " alt="" coords="1829,557,1952,584"/>
+<area shape="rect" id="node17" href="$a00848.html" title="FiffCoordTransOld class declaration. " alt="" coords="1368,169,1501,211"/>
+<area shape="rect" id="node18" href="$a01007.html" title="FiffStream class declaration. " alt="" coords="1009,259,1125,285"/>
+<area shape="rect" id="node19" href="$a00929.html" title="FiffDirNode class declaration, which provides fiff dir tree processing methods. " alt="" coords="723,333,837,360"/>
+<area shape="rect" id="node21" href="$a00944.html" title="Fiff block and dir tag explainations. " alt="" coords="509,408,616,435"/>
+</map>

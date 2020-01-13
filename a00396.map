@@ -1,0 +1,16 @@
+<map id="libraries/disp/viewers/helpers/rtfiffrawviewmodel.h" name="libraries/disp/viewers/helpers/rtfiffrawviewmodel.h">
+<area shape="rect" id="node2" href="$a00155.html" title="disp library export/import macros. " alt="" coords="1721,408,1853,435"/>
+<area shape="rect" id="node6" href="$a01016.html" title="Old fiff_type declarations &#45; replace them. " alt="" coords="1134,251,1249,278"/>
+<area shape="rect" id="node13" href="$a00989.html" title="FiffProj class declaration. " alt="" coords="721,95,825,121"/>
+<area shape="rect" id="node20" href="$a01568.html" title="The FilterKernel class represents a filter object that generates the FIR filter coefficients using Pa..." alt="" coords="187,244,342,285"/>
+<area shape="rect" id="node25" href="$a00830.html" title="EventManager declaration. " alt="" coords="1559,95,1735,121"/>
+<area shape="rect" id="node4" href="$a01631.html" title="build information utils " alt="" coords="1383,483,1506,509"/>
+<area shape="rect" id="node7" href="$a00887.html" title="Fiff constants. " alt="" coords="1007,333,1128,360"/>
+<area shape="rect" id="node14" href="$a00953.html" title="Fiff library export/import macros. " alt="" coords="1245,408,1343,435"/>
+<area shape="rect" id="node15" href="$a00983.html" title="FiffNamedMatrix class declaration. " alt="" coords="836,169,989,196"/>
+<area shape="rect" id="node21" href="$a01622.html" title="realtime library export/import macros. " alt="" coords="1047,408,1221,435"/>
+<area shape="rect" id="node26" href="$a00836.html" title="event library export/import macros. " alt="" coords="1382,408,1507,435"/>
+<area shape="rect" id="node27" href="$a00818.html" title="Event declaration. " alt="" coords="1521,251,1592,278"/>
+<area shape="rect" id="node28" href="$a00824.html" title="EventGroup declaration. " alt="" coords="1521,333,1629,360"/>
+<area shape="rect" id="node31" href="$a00842.html" title="EventSharedMemManager definition. " alt="" coords="1792,169,1999,196"/>
+</map>

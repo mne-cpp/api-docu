@@ -1,0 +1,34 @@
+<map id="libraries/fwd/fwd_comp_data.cpp" name="libraries/fwd/fwd_comp_data.cpp">
+<area shape="rect" id="node2" href="$a01106.html" title="FwdCompData class declaration. " alt="" coords="3822,95,3959,121"/>
+<area shape="rect" id="node8" href="$a01016.html" title="Old fiff_type declarations &#45; replace them. " alt="" coords="657,945,772,972"/>
+<area shape="rect" id="node47" href="$a01271.html" title="MneCTFCompDataSet class declaration. " alt="" coords="3885,319,4078,345"/>
+<area shape="rect" id="node3" href="$a01130.html" title="forward library export/import macros. " alt="" coords="459,639,565,666"/>
+<area shape="rect" id="node7" href="$a01139_source.html" title="fwd_types.h" alt="" coords="3143,169,3244,196"/>
+<area shape="rect" id="node5" href="$a01631.html" title="build information utils " alt="" coords="1497,1020,1620,1047"/>
+<area shape="rect" id="node15" href="$a01442_source.html" title="mne/c/mne_types.h" alt="" coords="3118,244,3269,271"/>
+<area shape="rect" id="node48" href="$a01100.html" title="FwdCoilSet class declaration. " alt="" coords="944,483,1059,509"/>
+<area shape="rect" id="node9" href="$a00887.html" title="Fiff constants. " alt="" coords="1351,1020,1473,1047"/>
+<area shape="rect" id="node16" href="$a01007.html" title="FiffStream class declaration. " alt="" coords="1448,721,1573,748"/>
+<area shape="rect" id="node29" href="$a01415.html" title="MNE SSS Data (MneSssData) class declaration. " alt="" coords="4182,871,4309,897"/>
+<area shape="rect" id="node32" href="$a01355.html" title="MNE Named Matrix (MneNamedMatrix) class declaration. " alt="" coords="3429,871,3595,897"/>
+<area shape="rect" id="node33" href="$a01283.html" title="MNE Derivation Set (MneDerivSet) class declaration. " alt="" coords="3072,871,3203,897"/>
+<area shape="rect" id="node34" href="$a00866.html" title="FiffSparseMatrix class declaration. " alt="" coords="3231,393,3353,435"/>
+<area shape="rect" id="node37" href="$a00848.html" title="FiffCoordTransOld class declaration. " alt="" coords="1177,632,1311,673"/>
+<area shape="rect" id="node43" href="$a01379.html" title="MNEProjItem class declaration. " alt="" coords="3670,871,3802,897"/>
+<area shape="rect" id="node44" href="$a01385.html" title="MNEProjOp class declaration. " alt="" coords="2369,639,2487,666"/>
+<area shape="rect" id="node45" href="$a01259.html" title="MneCovMatrix class declaration. " alt="" coords="2905,871,3047,897"/>
+<area shape="rect" id="node46" href="$a01265.html" title="MneCTFCompData class declaration. " alt="" coords="3358,319,3525,345"/>
+<area shape="rect" id="node17" href="$a00953.html" title="Fiff library export/import macros. " alt="" coords="1179,945,1277,972"/>
+<area shape="rect" id="node18" href="$a00959.html" title="FiffId class declaration. " alt="" coords="955,871,1026,897"/>
+<area shape="rect" id="node20" href="$a00929.html" title="FiffDirNode class declaration, which provides fiff dir tree processing methods. " alt="" coords="1056,796,1171,823"/>
+<area shape="rect" id="node21" href="$a00923.html" title="FiffDirEntry class declaration. " alt="" coords="1232,871,1347,897"/>
+<area shape="rect" id="node22" href="$a00944.html" title="Fiff block and dir tag explainations. " alt="" coords="1051,871,1157,897"/>
+<area shape="rect" id="node23" href="$a00947.html" title="Header file describing the numerical values used in fif files. " alt="" coords="1986,945,2065,972"/>
+<area shape="rect" id="node30" href="$a01502.html" title="mne library export/import macros. " alt="" coords="3205,945,3328,972"/>
+<area shape="rect" id="node35" href="$a01013.html" title="FiffTag class declaration, which provides fiff tag I/O and processing methods. " alt="" coords="2281,483,2372,509"/>
+<area shape="rect" id="node36" href="$a00893.html" title="FiffCoordTrans class declaration. " alt="" coords="1533,557,1667,584"/>
+<area shape="rect" id="node38" href="$a00878.html" title="FiffChInfo class declaration. " alt="" coords="2031,796,2137,823"/>
+<area shape="rect" id="node39" href="$a00884.html" title="FiffChPos class declaration. " alt="" coords="1625,871,1727,897"/>
+<area shape="rect" id="node40" href="$a00911.html" title="FiffDigPoint class declaration. " alt="" coords="2051,871,2170,897"/>
+<area shape="rect" id="node49" href="$a01094.html" title="FwdCoil class declaration. " alt="" coords="1200,557,1288,584"/>
+</map>

@@ -1,0 +1,32 @@
+<map id="libraries/disp3D/engine/model/items/hemisphere/hemispheretreeitem.cpp" name="libraries/disp3D/engine/model/items/hemisphere/hemispheretreeitem.cpp">
+<area shape="rect" id="node2" href="$a00620.html" title="HemisphereTreeItem class declaration. " alt="" coords="1300,184,1467,211"/>
+<area shape="rect" id="node8" href="$a01052.html" title="Label class declaration. " alt="" coords="2662,579,2745,606"/>
+<area shape="rect" id="node29" href="$a00614.html" title="FsSurfaceTreeItem class declaration. " alt="" coords="1535,109,1765,136"/>
+<area shape="rect" id="node33" href="$a00608.html" title="FsAnnotationTreeItem class declaration. " alt="" coords="2367,184,2619,211"/>
+<area shape="rect" id="node34" href="$a00680.html" title="SourceSpaceTreeItem class declaration. " alt="" coords="1841,109,2109,136"/>
+<area shape="rect" id="node35" href="$a00674.html" title="MneDataTreeItem class declaration. " alt="" coords="888,184,1124,211"/>
+<area shape="rect" id="node37" href="$a01034.html" title="AnnotationSet class declaration. " alt="" coords="2252,497,2392,524"/>
+<area shape="rect" id="node39" href="$a01064.html" title="SurfaceSet class declaration. " alt="" coords="2449,497,2568,524"/>
+<area shape="rect" id="node41" href="$a01496.html" title="MNEForwardSolution class declaration, which provides the forward solution including the source space ..." alt="" coords="650,259,855,285"/>
+<area shape="rect" id="node50" href="$a01520.html" title="MNESourceEstimate class declaration. " alt="" coords="1844,497,2048,524"/>
+<area shape="rect" id="node3" href="$a00515.html" title="disp3D library export/import macros. " alt="" coords="1373,333,1487,375"/>
+<area shape="rect" id="node6" href="$a00575.html" title="AbstractTreeItem class declaration. " alt="" coords="1454,259,1670,285"/>
+<area shape="rect" id="node5" href="$a01631.html" title="build information utils " alt="" coords="817,736,939,763"/>
+<area shape="rect" id="node7" href="$a00590.html" title="Contains general application specific types. " alt="" coords="2260,341,2331,367"/>
+<area shape="rect" id="node13" href="$a01196.html" title="FiffDigPointSet class declaration. " alt="" coords="1444,572,1600,613"/>
+<area shape="rect" id="node16" href="$a00965.html" title="FiffInfo class declaration. " alt="" coords="827,423,931,449"/>
+<area shape="rect" id="node9" href="$a01046.html" title="Fs library export/import macros. " alt="" coords="2386,661,2479,688"/>
+<area shape="rect" id="node17" href="$a00971.html" title="FiffInfoBase class declaration. " alt="" coords="580,497,701,524"/>
+<area shape="rect" id="node18" href="$a01016.html" title="Old fiff_type declarations &#45; replace them. " alt="" coords="277,661,372,688"/>
+<area shape="rect" id="node23" href="$a00893.html" title="FiffCoordTrans class declaration. " alt="" coords="1081,579,1216,606"/>
+<area shape="rect" id="node19" href="$a00887.html" title="Fiff constants. " alt="" coords="5,736,127,763"/>
+<area shape="rect" id="node30" href="$a00569.html" title="AbstractMeshTreeItem class declaration. " alt="" coords="1687,184,1939,211"/>
+<area shape="rect" id="node31" href="$a00563.html" title="Abstract3DTreeItem class declaration. " alt="" coords="2006,259,2241,285"/>
+<area shape="rect" id="node38" href="$a01028.html" title="Annotation class declaration. " alt="" coords="2174,579,2278,606"/>
+<area shape="rect" id="node40" href="$a01058.html" title="Surface class declaration. " alt="" coords="2454,579,2537,606"/>
+<area shape="rect" id="node42" href="$a01502.html" title="mne library export/import macros. " alt="" coords="753,661,864,688"/>
+<area shape="rect" id="node43" href="$a01526.html" title="MNESourceSpace class declaration. " alt="" coords="601,579,752,606"/>
+<area shape="rect" id="node44" href="$a01679.html" title="MNEMath class declaration. " alt="" coords="396,661,525,688"/>
+<area shape="rect" id="node45" href="$a01661.html" title="KMeans class declaration. " alt="" coords="1676,579,1795,606"/>
+<area shape="rect" id="node46" href="$a00899.html" title="FiffCov class declaration. " alt="" coords="829,341,930,367"/>
+</map>

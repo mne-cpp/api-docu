@@ -1,0 +1,31 @@
+<map id="libraries/disp3D/engine/model/items/common/metatreeitem.cpp" name="libraries/disp3D/engine/model/items/common/metatreeitem.cpp">
+<area shape="rect" id="node2" href="$a00587.html" title="MetaTreeItem class declaration. " alt="" coords="3471,95,3595,121"/>
+<area shape="rect" id="node3" href="$a00515.html" title="disp3D library export/import macros. " alt="" coords="3599,393,3713,435"/>
+<area shape="rect" id="node7" href="$a00575.html" title="AbstractTreeItem class declaration. " alt="" coords="3462,169,3605,196"/>
+<area shape="rect" id="node5" href="$a01631.html" title="build information utils " alt="" coords="3507,960,3629,987"/>
+<area shape="rect" id="node8" href="$a00590.html" title="Contains general application specific types. " alt="" coords="3259,244,3330,271"/>
+<area shape="rect" id="node9" href="$a01052.html" title="Label class declaration. " alt="" coords="3267,811,3349,837"/>
+<area shape="rect" id="node14" href="$a01196.html" title="FiffDigPointSet class declaration. " alt="" coords="3035,721,3191,763"/>
+<area shape="rect" id="node20" href="$a00965.html" title="FiffInfo class declaration. " alt="" coords="1463,319,1567,345"/>
+<area shape="rect" id="node10" href="$a01046.html" title="Fs library export/import macros. " alt="" coords="3565,885,3659,912"/>
+<area shape="rect" id="node15" href="$a01223.html" title="inverse library export/import macros. " alt="" coords="3216,885,3357,912"/>
+<area shape="rect" id="node16" href="$a01190.html" title="Electric Current Dipole (ECD) class declaration. " alt="" coords="2982,811,3039,837"/>
+<area shape="rect" id="node21" href="$a00953.html" title="Fiff library export/import macros. " alt="" coords="1977,885,2076,912"/>
+<area shape="rect" id="node22" href="$a00971.html" title="FiffInfoBase class declaration. " alt="" coords="991,401,1113,427"/>
+<area shape="rect" id="node23" href="$a01016.html" title="Old fiff_type declarations &#45; replace them. " alt="" coords="753,885,847,912"/>
+<area shape="rect" id="node28" href="$a00959.html" title="FiffId class declaration. " alt="" coords="1459,811,1530,837"/>
+<area shape="rect" id="node29" href="$a00878.html" title="FiffChInfo class declaration. " alt="" coords="709,729,814,755"/>
+<area shape="rect" id="node31" href="$a00911.html" title="FiffDigPoint class declaration. " alt="" coords="2331,811,2450,837"/>
+<area shape="rect" id="node32" href="$a00905.html" title="FiffCtfComp class declaration. " alt="" coords="1054,729,1173,755"/>
+<area shape="rect" id="node36" href="$a00893.html" title="FiffCoordTrans class declaration. " alt="" coords="1635,483,1770,509"/>
+<area shape="rect" id="node47" href="$a00989.html" title="FiffProj class declaration. " alt="" coords="475,729,557,755"/>
+<area shape="rect" id="node24" href="$a00887.html" title="Fiff constants. " alt="" coords="863,960,985,987"/>
+<area shape="rect" id="node30" href="$a00884.html" title="FiffChPos class declaration. " alt="" coords="779,811,882,837"/>
+<area shape="rect" id="node33" href="$a00983.html" title="FiffNamedMatrix class declaration. " alt="" coords="195,811,349,837"/>
+<area shape="rect" id="node37" href="$a00848.html" title="FiffCoordTransOld class declaration. " alt="" coords="1584,557,1717,599"/>
+<area shape="rect" id="node38" href="$a01007.html" title="FiffStream class declaration. " alt="" coords="2001,647,2117,673"/>
+<area shape="rect" id="node39" href="$a00929.html" title="FiffDirNode class declaration, which provides fiff dir tree processing methods. " alt="" coords="1552,729,1667,755"/>
+<area shape="rect" id="node40" href="$a00923.html" title="FiffDirEntry class declaration. " alt="" coords="1989,811,2104,837"/>
+<area shape="rect" id="node41" href="$a00944.html" title="Fiff block and dir tag explainations. " alt="" coords="1605,811,1712,837"/>
+<area shape="rect" id="node42" href="$a00947.html" title="Header file describing the numerical values used in fif files. " alt="" coords="1619,885,1698,912"/>
+</map>

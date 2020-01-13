@@ -1,0 +1,51 @@
+<map id="libraries/inverse/inverse_global.h" name="libraries/inverse/inverse_global.h">
+<area shape="rect" id="node2" href="$a03337_source.html" title="libraries/inverse/c\l/mne_inverse_operator.h" alt="" coords="280,95,462,136"/>
+<area shape="rect" id="node5" href="$a01151.html" title="MNE Meas Data (MneMeasData) class declaration. " alt="" coords="772,95,919,136"/>
+<area shape="rect" id="node7" href="$a01172.html" title="Dipole Fit Data class declaration. " alt="" coords="883,281,1054,322"/>
+<area shape="rect" id="node8" href="$a01166.html" title="Dipole Fit class declaration. " alt="" coords="883,385,1054,426"/>
+<area shape="rect" id="node12" href="$a01157.html" title="MNE Meas Data Set (MneMeasDataSet) class declaration. " alt="" coords="487,95,660,136"/>
+<area shape="rect" id="node14" href="$a01196.html" title="FiffDigPointSet class declaration. " alt="" coords="1838,184,2008,225"/>
+<area shape="rect" id="node31" href="$a01178.html" title="Dipole Fit Setting class declaration. " alt="" coords="2373,281,2545,322"/>
+<area shape="rect" id="node34" href="$a01190.html" title="Electric Current Dipole (ECD) class declaration. " alt="" coords="1266,95,1436,136"/>
+<area shape="rect" id="node36" href="$a01184.html" title="DipoleForward class declaration. " alt="" coords="1424,184,1595,225"/>
+<area shape="rect" id="node37" href="$a01202.html" title="GuessData class declaration. " alt="" coords="1078,281,1248,322"/>
+<area shape="rect" id="node39" href="$a01208.html" title="HPIFit class declaration. " alt="" coords="2084,95,2250,136"/>
+<area shape="rect" id="node41" href="$a01214.html" title="HPIFitData class declaration. " alt="" coords="2374,184,2541,225"/>
+<area shape="rect" id="node44" href="$a01220.html" title="inverse library export/import macros. " alt="" coords="2326,95,2504,136"/>
+<area shape="rect" id="node45" href="$a01229.html" title="Minimum norm class declaration. " alt="" coords="2528,95,2723,136"/>
+<area shape="rect" id="node47" href="$a01241.html" title="PwlRapMusic algorithm class declaration. " alt="" coords="2794,184,2983,225"/>
+<area shape="rect" id="node49" href="$a01247.html" title="RapMusic algorithm class declaration. " alt="" coords="2798,95,2987,136"/>
+<area shape="rect" id="node3" href="$a03331_source.html" title="libraries/inverse/c\l/mne_inverse_operator.cpp" alt="" coords="58,184,257,225"/>
+<area shape="rect" id="node4" href="$a01148.html" title="Definition of the MNE Meas Data (MneMeasData) Class. " alt="" coords="332,184,493,225"/>
+<area shape="rect" id="node6" href="$a01160_source.html" title="libraries/inverse/dipole\lFit/analyze_types.h" alt="" coords="883,184,1054,225"/>
+<area shape="rect" id="node10" href="$a01169_source.html" title="libraries/inverse/dipole\lFit/dipole_fit_data.cpp" alt="" coords="688,385,859,426"/>
+<area shape="rect" id="node11" href="$a01199.html" title="Definition of the GuessData Class. " alt="" coords="1078,385,1248,426"/>
+<area shape="rect" id="node9" href="$a01163_source.html" title="libraries/inverse/dipole\lFit/dipole_fit.cpp" alt="" coords="883,489,1054,530"/>
+<area shape="rect" id="node13" href="$a01154.html" title="Definition of the MNE Meas Data Set (MneMeasDataSet) Class. " alt="" coords="569,184,757,225"/>
+<area shape="rect" id="node15" href="$a00590.html" title="Contains general application specific types. " alt="" coords="2635,281,2856,322"/>
+<area shape="rect" id="node18" href="$a00623.html" title="MeasurementTreeItem class definition. " alt="" coords="2788,689,2991,745"/>
+<area shape="rect" id="node20" href="$a00542.html" title="Data3DTreeModel class definition. " alt="" coords="2250,697,2462,738"/>
+<area shape="rect" id="node21" href="$a03322_source.html" title="libraries/disp3D/viewers\l/abstractview.cpp" alt="" coords="2072,489,2251,530"/>
+<area shape="rect" id="node22" href="$a00797.html" title="ECDView class definition. " alt="" coords="2326,489,2504,530"/>
+<area shape="rect" id="node30" href="$a00665.html" title="EcdDataTreeItem class definition. " alt="" coords="1568,273,1752,329"/>
+<area shape="rect" id="node33" href="$a01193.html" title="Definition of the Electric Current Dipole Set (ECDSet) Class. " alt="" coords="1776,281,1947,322"/>
+<area shape="rect" id="node16" href="$a00575.html" title="AbstractTreeItem class declaration. " alt="" coords="3316,385,3610,426"/>
+<area shape="rect" id="node17" href="$a00608.html" title="FsAnnotationTreeItem class declaration. " alt="" coords="3518,481,3694,537"/>
+<area shape="rect" id="node19" href="$a00545.html" title="Data3DTreeModel class declaration. " alt="" coords="2174,385,2371,426"/>
+<area shape="rect" id="node23" href="$a00563.html" title="Abstract3DTreeItem class declaration. " alt="" coords="2859,377,3094,433"/>
+<area shape="rect" id="node24" href="$a00569.html" title="AbstractMeshTreeItem class declaration. " alt="" coords="2859,489,3190,530"/>
+<area shape="rect" id="node25" href="$a00614.html" title="FsSurfaceTreeItem class declaration. " alt="" coords="2544,585,2720,641"/>
+<area shape="rect" id="node26" href="$a00680.html" title="SourceSpaceTreeItem class declaration. " alt="" coords="2326,585,2520,641"/>
+<area shape="rect" id="node27" href="$a00551.html" title="BemSurfaceTreeItem class declaration. " alt="" coords="2744,593,3035,634"/>
+<area shape="rect" id="node28" href="$a00638.html" title="NetworkTreeItem class declaration. " alt="" coords="3059,593,3350,634"/>
+<area shape="rect" id="node29" href="$a00662.html" title="SensorSurfaceTreeItem class declaration. " alt="" coords="3374,585,3568,641"/>
+<area shape="rect" id="node32" href="$a01175_source.html" title="libraries/inverse/dipole\lFit/dipole_fit_settings.cpp" alt="" coords="2496,385,2683,426"/>
+<area shape="rect" id="node35" href="$a01187.html" title="Definition of the Electric Current Dipole (ECD) Class. " alt="" coords="1230,184,1400,225"/>
+<area shape="rect" id="node38" href="$a01181.html" title="Definition of the DipoleForward Class. " alt="" coords="1323,281,1494,322"/>
+<area shape="rect" id="node40" href="$a01205.html" title="HPIFit class defintion. " alt="" coords="2881,281,3048,322"/>
+<area shape="rect" id="node42" href="$a01211.html" title="HPIFitData class defintion. " alt="" coords="3072,281,3238,322"/>
+<area shape="rect" id="node43" href="$a01601.html" title="Definition of the RtHpi Class. " alt="" coords="2140,184,2298,225"/>
+<area shape="rect" id="node46" href="$a01226.html" title="Definition of the MinimumNorm Class. " alt="" coords="2566,184,2760,225"/>
+<area shape="rect" id="node48" href="$a01238.html" title="Definition of the PwlRapMusic Algorithm Class. " alt="" coords="3263,281,3452,322"/>
+<area shape="rect" id="node50" href="$a01244.html" title="Definition of the RapMusic Algorithm Class. " alt="" coords="3007,184,3196,225"/>
+</map>

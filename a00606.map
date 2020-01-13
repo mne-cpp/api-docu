@@ -1,0 +1,33 @@
+<map id="libraries/disp3D/engine/model/items/freesurfer/fsannotationtreeitem.cpp" name="libraries/disp3D/engine/model/items/freesurfer/fsannotationtreeitem.cpp">
+<area shape="rect" id="node2" href="$a00608.html" title="FsAnnotationTreeItem class declaration. " alt="" coords="2993,109,3165,136"/>
+<area shape="rect" id="node9" href="$a01052.html" title="Label class declaration. " alt="" coords="3741,825,3824,852"/>
+<area shape="rect" id="node47" href="$a00587.html" title="MetaTreeItem class declaration. " alt="" coords="2771,109,2968,136"/>
+<area shape="rect" id="node48" href="$a01058.html" title="Surface class declaration. " alt="" coords="3568,825,3667,852"/>
+<area shape="rect" id="node49" href="$a01028.html" title="Annotation class declaration. " alt="" coords="3403,743,3523,770"/>
+<area shape="rect" id="node3" href="$a00515.html" title="disp3D library export/import macros. " alt="" coords="2660,259,2775,300"/>
+<area shape="rect" id="node7" href="$a00575.html" title="AbstractTreeItem class declaration. " alt="" coords="2777,184,2993,211"/>
+<area shape="rect" id="node8" href="$a00590.html" title="Contains general application specific types. " alt="" coords="2850,266,2921,293"/>
+<area shape="rect" id="node5" href="$a01631.html" title="build information utils " alt="" coords="2752,975,2875,1001"/>
+<area shape="rect" id="node14" href="$a01196.html" title="FiffDigPointSet class declaration. " alt="" coords="2807,736,2963,777"/>
+<area shape="rect" id="node20" href="$a00965.html" title="FiffInfo class declaration. " alt="" coords="1316,348,1420,375"/>
+<area shape="rect" id="node10" href="$a01046.html" title="Fs library export/import macros. " alt="" coords="3496,900,3589,927"/>
+<area shape="rect" id="node15" href="$a01223.html" title="inverse library export/import macros. " alt="" coords="2847,900,2988,927"/>
+<area shape="rect" id="node16" href="$a01190.html" title="Electric Current Dipole (ECD) class declaration. " alt="" coords="2857,825,2914,852"/>
+<area shape="rect" id="node21" href="$a00953.html" title="Fiff library export/import macros. " alt="" coords="1611,900,1709,927"/>
+<area shape="rect" id="node22" href="$a00971.html" title="FiffInfoBase class declaration. " alt="" coords="1207,423,1329,449"/>
+<area shape="rect" id="node23" href="$a01016.html" title="Old fiff_type declarations &#45; replace them. " alt="" coords="683,900,778,927"/>
+<area shape="rect" id="node28" href="$a00959.html" title="FiffId class declaration. " alt="" coords="1337,825,1407,852"/>
+<area shape="rect" id="node29" href="$a00878.html" title="FiffChInfo class declaration. " alt="" coords="2314,743,2419,770"/>
+<area shape="rect" id="node31" href="$a00911.html" title="FiffDigPoint class declaration. " alt="" coords="2206,825,2325,852"/>
+<area shape="rect" id="node32" href="$a00905.html" title="FiffCtfComp class declaration. " alt="" coords="1305,743,1423,770"/>
+<area shape="rect" id="node36" href="$a00893.html" title="FiffCoordTrans class declaration. " alt="" coords="1938,497,2073,524"/>
+<area shape="rect" id="node44" href="$a00989.html" title="FiffProj class declaration. " alt="" coords="1096,743,1179,770"/>
+<area shape="rect" id="node24" href="$a00887.html" title="Fiff constants. " alt="" coords="794,975,915,1001"/>
+<area shape="rect" id="node30" href="$a00884.html" title="FiffChPos class declaration. " alt="" coords="1825,825,1927,852"/>
+<area shape="rect" id="node33" href="$a00983.html" title="FiffNamedMatrix class declaration. " alt="" coords="955,825,1109,852"/>
+<area shape="rect" id="node37" href="$a00848.html" title="FiffCoordTransOld class declaration. " alt="" coords="1991,572,2124,613"/>
+<area shape="rect" id="node38" href="$a01007.html" title="FiffStream class declaration. " alt="" coords="1731,661,1847,688"/>
+<area shape="rect" id="node39" href="$a00929.html" title="FiffDirNode class declaration, which provides fiff dir tree processing methods. " alt="" coords="957,743,1072,770"/>
+<area shape="rect" id="node40" href="$a00923.html" title="FiffDirEntry class declaration. " alt="" coords="1432,825,1547,852"/>
+<area shape="rect" id="node50" href="$a01040.html" title="Colortable class declaration. " alt="" coords="3344,825,3443,852"/>
+</map>

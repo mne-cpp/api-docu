@@ -1,0 +1,18 @@
+<map id="libraries/fwd/fwd_eeg_sphere_model_set.h" name="libraries/fwd/fwd_eeg_sphere_model_set.h">
+<area shape="rect" id="node2" href="$a01130.html" title="forward library export/import macros. " alt="" coords="29,326,134,353"/>
+<area shape="rect" id="node6" href="$a01118.html" title="FwdEegSphereModel class declaration. " alt="" coords="439,95,627,121"/>
+<area shape="rect" id="node4" href="$a01631.html" title="build information utils " alt="" coords="160,707,283,733"/>
+<area shape="rect" id="node7" href="$a01112.html" title="FwdEegSphereLayer class declaration. " alt="" coords="260,244,439,271"/>
+<area shape="rect" id="node11" href="$a01100.html" title="FwdCoilSet class declaration. " alt="" coords="532,169,647,196"/>
+<area shape="rect" id="node12" href="$a01094.html" title="FwdCoil class declaration. " alt="" coords="564,244,652,271"/>
+<area shape="rect" id="node15" href="$a01016.html" title="Old fiff_type declarations &#45; replace them. " alt="" coords="968,632,1075,659"/>
+<area shape="rect" id="node13" href="$a00848.html" title="FiffCoordTransOld class declaration. " alt="" coords="595,319,749,360"/>
+<area shape="rect" id="node14" href="$a00953.html" title="Fiff library export/import macros. " alt="" coords="413,632,523,659"/>
+<area shape="rect" id="node21" href="$a01007.html" title="FiffStream class declaration. " alt="" coords="929,408,1045,435"/>
+<area shape="rect" id="node23" href="$a00929.html" title="FiffDirNode class declaration, which provides fiff dir tree processing methods. " alt="" coords="615,483,729,509"/>
+<area shape="rect" id="node16" href="$a00887.html" title="Fiff constants. " alt="" coords="702,707,823,733"/>
+<area shape="rect" id="node22" href="$a00959.html" title="FiffId class declaration. " alt="" coords="986,557,1057,584"/>
+<area shape="rect" id="node24" href="$a00923.html" title="FiffDirEntry class declaration. " alt="" coords="796,557,911,584"/>
+<area shape="rect" id="node25" href="$a00944.html" title="Fiff block and dir tag explainations. " alt="" coords="665,557,772,584"/>
+<area shape="rect" id="node26" href="$a00947.html" title="Header file describing the numerical values used in fif files. " alt="" coords="679,632,758,659"/>
+</map>

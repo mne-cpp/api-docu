@@ -1,0 +1,18 @@
+<map id="libraries/fiff/c/fiff_sparse_matrix.h" name="libraries/fiff/c/fiff_sparse_matrix.h">
+<area shape="rect" id="node2" href="$a00953.html" title="Fiff library export/import macros. " alt="" coords="1345,557,1455,584"/>
+<area shape="rect" id="node6" href="$a01016.html" title="Old fiff_type declarations &#45; replace them. " alt="" coords="720,557,827,584"/>
+<area shape="rect" id="node13" href="$a01013.html" title="FiffTag class declaration, which provides fiff tag I/O and processing methods. " alt="" coords="1519,95,1609,121"/>
+<area shape="rect" id="node4" href="$a01631.html" title="build information utils " alt="" coords="1415,632,1537,659"/>
+<area shape="rect" id="node7" href="$a00887.html" title="Fiff constants. " alt="" coords="46,632,167,659"/>
+<area shape="rect" id="node14" href="$a00947.html" title="Header file describing the numerical values used in fif files. " alt="" coords="617,557,695,584"/>
+<area shape="rect" id="node15" href="$a00959.html" title="FiffId class declaration. " alt="" coords="1051,483,1122,509"/>
+<area shape="rect" id="node17" href="$a00893.html" title="FiffCoordTrans class declaration. " alt="" coords="1311,169,1446,196"/>
+<area shape="rect" id="node21" href="$a00923.html" title="FiffDirEntry class declaration. " alt="" coords="1197,483,1312,509"/>
+<area shape="rect" id="node28" href="$a00878.html" title="FiffChInfo class declaration. " alt="" coords="1865,408,1970,435"/>
+<area shape="rect" id="node29" href="$a00884.html" title="FiffChPos class declaration. " alt="" coords="1686,483,1789,509"/>
+<area shape="rect" id="node30" href="$a00911.html" title="FiffDigPoint class declaration. " alt="" coords="2086,169,2205,196"/>
+<area shape="rect" id="node18" href="$a00848.html" title="FiffCoordTransOld class declaration. " alt="" coords="1312,244,1445,285"/>
+<area shape="rect" id="node19" href="$a01007.html" title="FiffStream class declaration. " alt="" coords="1241,333,1357,360"/>
+<area shape="rect" id="node20" href="$a00929.html" title="FiffDirNode class declaration, which provides fiff dir tree processing methods. " alt="" coords="960,408,1075,435"/>
+<area shape="rect" id="node22" href="$a00944.html" title="Fiff block and dir tag explainations. " alt="" coords="667,483,773,509"/>
+</map>

@@ -1,0 +1,29 @@
+<map id="libraries/disp3D/engine/model/items/sensordata/sensordatatreeitem.cpp" name="libraries/disp3D/engine/model/items/sensordata/sensordatatreeitem.cpp">
+<area shape="rect" id="node2" href="$a00644.html" title="sensordatatreeitem.h" alt="" coords="1603,109,1765,136"/>
+<area shape="rect" id="node27" href="$a00587.html" title="MetaTreeItem class declaration. " alt="" coords="1797,184,1995,211"/>
+<area shape="rect" id="node28" href="$a00734.html" title="RtSensorDataController class declaration. " alt="" coords="184,259,371,300"/>
+<area shape="rect" id="node32" href="$a00581.html" title="GpuInterpolationItem class declaration. " alt="" coords="731,109,975,136"/>
+<area shape="rect" id="node36" href="$a00569.html" title="AbstractMeshTreeItem class declaration. " alt="" coords="1225,109,1477,136"/>
+<area shape="rect" id="node38" href="$a00527.html" title="CustomMesh class declaration. " alt="" coords="864,266,1075,293"/>
+<area shape="rect" id="node39" href="$a00716.html" title="PerVertexPhongAlphaMaterial class declaration. " alt="" coords="1454,184,1773,211"/>
+<area shape="rect" id="node42" href="$a01460.html" title="MNEBem class declaration. " alt="" coords="2798,184,2930,211"/>
+<area shape="rect" id="node3" href="$a00515.html" title="disp3D library export/import macros. " alt="" coords="1511,348,1625,389"/>
+<area shape="rect" id="node6" href="$a00575.html" title="AbstractTreeItem class declaration. " alt="" coords="1899,266,2115,293"/>
+<area shape="rect" id="node22" href="$a00626.html" title="MeasurementTreeItem class declaration. " alt="" coords="2120,184,2408,211"/>
+<area shape="rect" id="node5" href="$a01631.html" title="build information utils " alt="" coords="1731,445,1853,471"/>
+<area shape="rect" id="node7" href="$a00590.html" title="Contains general application specific types. " alt="" coords="1335,355,1406,382"/>
+<area shape="rect" id="node8" href="$a01052.html" title="Label class declaration. " alt="" coords="1088,445,1171,471"/>
+<area shape="rect" id="node11" href="$a01196.html" title="FiffDigPointSet class declaration. " alt="" coords="1499,437,1655,479"/>
+<area shape="rect" id="node13" href="$a00965.html" title="FiffInfo class declaration. " alt="" coords="2520,445,2624,471"/>
+<area shape="rect" id="node14" href="$a01016.html" title="Old fiff_type declarations &#45; replace them. " alt="" coords="2715,527,2810,553"/>
+<area shape="rect" id="node15" href="$a00887.html" title="Fiff constants. " alt="" coords="2815,601,2937,628"/>
+<area shape="rect" id="node23" href="$a01496.html" title="MNEForwardSolution class declaration, which provides the forward solution including the source space ..." alt="" coords="2392,266,2597,293"/>
+<area shape="rect" id="node25" href="$a00137.html" title="Network class declaration. " alt="" coords="2134,437,2293,479"/>
+<area shape="rect" id="node24" href="$a01502.html" title="mne library export/import macros. " alt="" coords="2143,355,2254,382"/>
+<area shape="rect" id="node33" href="$a00563.html" title="Abstract3DTreeItem class declaration. " alt="" coords="813,184,1048,211"/>
+<area shape="rect" id="node34" href="$a00539.html" title="Renderable3DEntity class declaration. " alt="" coords="547,259,739,300"/>
+<area shape="rect" id="node40" href="$a00692.html" title="AbstractPhongAlphaMaterial class declaration. " alt="" coords="1656,266,1875,293"/>
+<area shape="rect" id="node43" href="$a01466.html" title="MNEBemSurface class declaration. " alt="" coords="2621,266,2776,293"/>
+<area shape="rect" id="node44" href="$a00872.html" title="FIFF class declaration, which provides static wrapper functions to stay consistent with mne matlab to..." alt="" coords="3019,355,3091,382"/>
+<area shape="rect" id="node45" href="$a00929.html" title="FiffDirNode class declaration, which provides fiff dir tree processing methods. " alt="" coords="3117,445,3232,471"/>
+</map>

@@ -1,0 +1,36 @@
+<map id="libraries/fwd/computeFwd/compute_fwd.h" name="libraries/fwd/computeFwd/compute_fwd.h">
+<area shape="rect" id="node2" href="$a01130.html" title="forward library export/import macros. " alt="" coords="1900,505,2017,531"/>
+<area shape="rect" id="node6" href="$a01076.html" title="Compute Forward Setting class declaration. " alt="" coords="4825,177,5007,203"/>
+<area shape="rect" id="node11" href="$a01016.html" title="Old fiff_type declarations &#45; replace them. " alt="" coords="3713,825,3807,852"/>
+<area shape="rect" id="node22" href="$a00848.html" title="FiffCoordTransOld class declaration. " alt="" coords="4759,497,4892,539"/>
+<area shape="rect" id="node26" href="$a01100.html" title="FwdCoilSet class declaration. " alt="" coords="1803,348,1930,375"/>
+<area shape="rect" id="node28" href="$a01271.html" title="MneCTFCompDataSet class declaration. " alt="" coords="603,169,765,211"/>
+<area shape="rect" id="node30" href="$a01355.html" title="MNE Named Matrix (MneNamedMatrix) class declaration. " alt="" coords="296,751,461,777"/>
+<area shape="rect" id="node32" href="$a00866.html" title="FiffSparseMatrix class declaration. " alt="" coords="1467,259,1589,300"/>
+<area shape="rect" id="node34" href="$a01124.html" title="FwdEegSphereModelSet class declaration. " alt="" coords="1297,169,1485,211"/>
+<area shape="rect" id="node36" href="$a01082.html" title="FwdBemModel class declaration. " alt="" coords="4231,266,4385,293"/>
+<area shape="rect" id="node38" href="$a01361.html" title="MneNearest class declaration. " alt="" coords="1261,751,1424,777"/>
+<area shape="rect" id="node39" href="$a01409.html" title="MneSourceSpaceOld class declaration. " alt="" coords="841,661,1031,703"/>
+<area shape="rect" id="node41" href="$a01496.html" title="MNEForwardSolution class declaration, which provides the forward solution including the source space ..." alt="" coords="2543,95,2748,121"/>
+<area shape="rect" id="node4" href="$a01631.html" title="build information utils " alt="" coords="968,900,1091,927"/>
+<area shape="rect" id="node7" href="$a00887.html" title="Fiff constants. " alt="" coords="5181,900,5323,927"/>
+<area shape="rect" id="node8" href="$a00965.html" title="FiffInfo class declaration. " alt="" coords="4027,266,4131,293"/>
+<area shape="rect" id="node9" href="$a00953.html" title="Fiff library export/import macros. " alt="" coords="4021,825,4120,852"/>
+<area shape="rect" id="node10" href="$a00971.html" title="FiffInfoBase class declaration. " alt="" coords="3717,348,3838,375"/>
+<area shape="rect" id="node17" href="$a00959.html" title="FiffId class declaration. " alt="" coords="4134,751,4205,777"/>
+<area shape="rect" id="node19" href="$a00878.html" title="FiffChInfo class declaration. " alt="" coords="3429,587,3534,613"/>
+<area shape="rect" id="node21" href="$a00893.html" title="FiffCoordTrans class declaration. " alt="" coords="3197,423,3331,449"/>
+<area shape="rect" id="node23" href="$a01007.html" title="FiffStream class declaration. " alt="" coords="4767,587,4883,613"/>
+<area shape="rect" id="node24" href="$a00929.html" title="FiffDirNode class declaration, which provides fiff dir tree processing methods. " alt="" coords="4923,669,5037,695"/>
+<area shape="rect" id="node27" href="$a01094.html" title="FwdCoil class declaration. " alt="" coords="1777,423,1865,449"/>
+<area shape="rect" id="node29" href="$a01502.html" title="mne library export/import macros. " alt="" coords="893,825,1016,852"/>
+<area shape="rect" id="node33" href="$a01013.html" title="FiffTag class declaration, which provides fiff tag I/O and processing methods. " alt="" coords="2952,348,3043,375"/>
+<area shape="rect" id="node35" href="$a01118.html" title="FwdEegSphereModel class declaration. " alt="" coords="1139,266,1327,293"/>
+<area shape="rect" id="node37" href="$a00983.html" title="FiffNamedMatrix class declaration. " alt="" coords="4838,751,4991,777"/>
+<area shape="rect" id="node40" href="$a01427.html" title="MNE Surface or Volume (MneSurfaceOrVolume) class declaration. " alt="" coords="1043,751,1237,777"/>
+<area shape="rect" id="node42" href="$a01526.html" title="MNESourceSpace class declaration. " alt="" coords="2746,587,2897,613"/>
+<area shape="rect" id="node43" href="$a01679.html" title="MNEMath class declaration. " alt="" coords="3406,825,3535,852"/>
+<area shape="rect" id="node44" href="$a01661.html" title="KMeans class declaration. " alt="" coords="2082,587,2201,613"/>
+<area shape="rect" id="node45" href="$a01034.html" title="AnnotationSet class declaration. " alt="" coords="2378,587,2518,613"/>
+<area shape="rect" id="node46" href="$a00899.html" title="FiffCov class declaration. " alt="" coords="3048,177,3149,203"/>
+</map>

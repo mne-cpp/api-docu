@@ -1,0 +1,36 @@
+<map id="libraries/disp3D/engine/model/items/mri/mritreeitem.cpp" name="libraries/disp3D/engine/model/items/mri/mritreeitem.cpp">
+<area shape="rect" id="node2" href="$a00632.html" title="MriTreeItem class declaration. " alt="" coords="1241,95,1353,121"/>
+<area shape="rect" id="node33" href="$a01034.html" title="AnnotationSet class declaration. " alt="" coords="2319,483,2459,509"/>
+<area shape="rect" id="node43" href="$a00608.html" title="FsAnnotationTreeItem class declaration. " alt="" coords="5,244,257,271"/>
+<area shape="rect" id="node44" href="$a00614.html" title="FsSurfaceTreeItem class declaration. " alt="" coords="1044,169,1275,196"/>
+<area shape="rect" id="node48" href="$a00620.html" title="HemisphereTreeItem class declaration. " alt="" coords="332,244,592,271"/>
+<area shape="rect" id="node49" href="$a01064.html" title="SurfaceSet class declaration. " alt="" coords="1648,483,1767,509"/>
+<area shape="rect" id="node3" href="$a00515.html" title="disp3D library export/import macros. " alt="" coords="455,393,570,435"/>
+<area shape="rect" id="node7" href="$a00575.html" title="AbstractTreeItem class declaration. " alt="" coords="209,319,425,345"/>
+<area shape="rect" id="node24" href="$a01496.html" title="MNEForwardSolution class declaration, which provides the forward solution including the source space ..." alt="" coords="1942,169,2147,196"/>
+<area shape="rect" id="node40" href="$a00137.html" title="Network class declaration. " alt="" coords="796,557,955,599"/>
+<area shape="rect" id="node5" href="$a01631.html" title="build information utils " alt="" coords="619,736,742,763"/>
+<area shape="rect" id="node8" href="$a00590.html" title="Contains general application specific types. " alt="" coords="1089,401,1160,427"/>
+<area shape="rect" id="node9" href="$a01052.html" title="Label class declaration. " alt="" coords="1194,565,1277,591"/>
+<area shape="rect" id="node14" href="$a01196.html" title="FiffDigPointSet class declaration. " alt="" coords="1832,647,1988,688"/>
+<area shape="rect" id="node16" href="$a00965.html" title="FiffInfo class declaration. " alt="" coords="2038,483,2142,509"/>
+<area shape="rect" id="node10" href="$a01046.html" title="Fs library export/import macros. " alt="" coords="1082,654,1175,681"/>
+<area shape="rect" id="node17" href="$a00971.html" title="FiffInfoBase class declaration. " alt="" coords="1969,565,2091,591"/>
+<area shape="rect" id="node18" href="$a01016.html" title="Old fiff_type declarations &#45; replace them. " alt="" coords="3072,736,3167,763"/>
+<area shape="rect" id="node20" href="$a00893.html" title="FiffCoordTrans class declaration. " alt="" coords="2115,654,2249,681"/>
+<area shape="rect" id="node19" href="$a00887.html" title="Fiff constants. " alt="" coords="3388,811,3509,837"/>
+<area shape="rect" id="node25" href="$a01502.html" title="mne library export/import macros. " alt="" coords="1529,401,1640,427"/>
+<area shape="rect" id="node26" href="$a01526.html" title="MNESourceSpace class declaration. " alt="" coords="2867,244,3017,271"/>
+<area shape="rect" id="node31" href="$a01679.html" title="MNEMath class declaration. " alt="" coords="2697,401,2827,427"/>
+<area shape="rect" id="node32" href="$a01661.html" title="KMeans class declaration. " alt="" coords="1352,654,1471,681"/>
+<area shape="rect" id="node36" href="$a00899.html" title="FiffCov class declaration. " alt="" coords="2038,401,2139,427"/>
+<area shape="rect" id="node27" href="$a01508.html" title="MNEHemisphere class declaration. " alt="" coords="2945,319,3091,345"/>
+<area shape="rect" id="node28" href="$a00872.html" title="FIFF class declaration, which provides static wrapper functions to stay consistent with mne matlab to..." alt="" coords="3157,401,3229,427"/>
+<area shape="rect" id="node29" href="$a00929.html" title="FiffDirNode class declaration, which provides fiff dir tree processing methods. " alt="" coords="3258,654,3373,681"/>
+<area shape="rect" id="node34" href="$a01028.html" title="Annotation class declaration. " alt="" coords="2477,565,2581,591"/>
+<area shape="rect" id="node35" href="$a01040.html" title="Colortable class declaration. " alt="" coords="2477,654,2575,681"/>
+<area shape="rect" id="node41" href="$a00059.html" title="connectivity library export/import macros. " alt="" coords="631,654,805,681"/>
+<area shape="rect" id="node45" href="$a00569.html" title="AbstractMeshTreeItem class declaration. " alt="" coords="963,244,1215,271"/>
+<area shape="rect" id="node46" href="$a00563.html" title="Abstract3DTreeItem class declaration. " alt="" coords="651,319,886,345"/>
+<area shape="rect" id="node50" href="$a01058.html" title="Surface class declaration. " alt="" coords="1647,565,1730,591"/>
+</map>

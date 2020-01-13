@@ -1,0 +1,5 @@
+<map id="DISPLIB::LayoutScene" name="DISPLIB::LayoutScene">
+<area shape="rect" id="node3" href="$a01977.html" title="The AverageScene class provides a reimplemented QGraphicsScene for 2D layout plotting. " alt="" coords="5,535,221,729"/>
+<area shape="rect" id="node4" href="$a02001.html" title="The FilterPlotScene class provides the scene where a filter response can be plotted. " alt="" coords="245,476,477,788"/>
+<area shape="rect" id="node5" href="$a02033.html" title="The SelectionScene class provides a reimplemented QGraphicsScene for 2D layout plotting. " alt="" coords="501,579,680,685"/>
+</map>

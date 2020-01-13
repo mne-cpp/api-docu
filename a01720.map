@@ -1,0 +1,51 @@
+<map id="libraries/utils/utils_global.h" name="libraries/utils/utils_global.h">
+<area shape="rect" id="node2" href="$a01637.html" title="Contains the declaration of the ApplicationLogger class. " alt="" coords="61,95,228,136"/>
+<area shape="rect" id="node4" href="$a01640.html" title="CircularBuffer class declaration. " alt="" coords="363,95,529,136"/>
+<area shape="rect" id="node6" href="$a01643.html" title="Contains declarations of the command design pattern: ICommand interface. " alt="" coords="608,95,775,136"/>
+<area shape="rect" id="node11" href="$a01649.html" title="Contains declarations of the observer design pattern: Subject class and IObserver interface..." alt="" coords="820,184,987,225"/>
+<area shape="rect" id="node13" href="$a01655.html" title="IOUtils class declaration. " alt="" coords="3777,102,3939,129"/>
+<area shape="rect" id="node24" href="$a01661.html" title="KMeans class declaration. " alt="" coords="1237,102,1412,129"/>
+<area shape="rect" id="node28" href="$a01667.html" title="LayoutLoader class declaration. " alt="" coords="5292,102,5496,129"/>
+<area shape="rect" id="node31" href="$a01673.html" title="LayoutLoader class declaration. " alt="" coords="4843,102,5049,129"/>
+<area shape="rect" id="node33" href="$a01694.html" title="SimplexAlgorithm Template Implementation. " alt="" coords="4657,95,4819,136"/>
+<area shape="rect" id="node36" href="$a01712.html" title="Sphere class declaration. " alt="" coords="4465,102,4632,129"/>
+<area shape="rect" id="node37" href="$a01679.html" title="MNEMath class declaration. " alt="" coords="2501,102,2687,129"/>
+<area shape="rect" id="node45" href="$a01685.html" title="Declaration of a MNETracer object. This class allows a user to easily measure executions times of a f..." alt="" coords="5521,102,5710,129"/>
+<area shape="rect" id="node46" href="$a01691.html" title="SelectionIO class declaration. " alt="" coords="5073,102,5267,129"/>
+<area shape="rect" id="node47" href="$a01700.html" title="Declaration of Spectral class. " alt="" coords="5735,102,5909,129"/>
+<area shape="rect" id="node48" href="$a01706.html" title="Declaration of spectrogram class. " alt="" coords="5934,102,6139,129"/>
+<area shape="rect" id="node49" href="$a01715.html" title="utils library export/import macros. " alt="" coords="6163,95,6302,136"/>
+<area shape="rect" id="node50" href="$a01724.html" title="Warp class declaration. " alt="" coords="6326,102,6481,129"/>
+<area shape="rect" id="node3" href="$a01634_source.html" title="libraries/utils/generics\l/applicationlogger.cpp" alt="" coords="5,184,172,225"/>
+<area shape="rect" id="node5" href="$a01616.html" title="RtNoise class declaration. " alt="" coords="196,184,355,225"/>
+<area shape="rect" id="node7" href="$a00029.html" title="Declaration of the Command Class. " alt="" coords="379,184,563,225"/>
+<area shape="rect" id="node10" href="$a00047.html" title="Declaration of the RawCommand Class. " alt="" coords="587,184,795,225"/>
+<area shape="rect" id="node8" href="$a00035_source.html" title="libraries/communication\l/rtCommand/commandmanager.h" alt="" coords="541,363,783,404"/>
+<area shape="rect" id="node9" href="$a00041.html" title="Declaration of the CommandParser Class. " alt="" coords="550,273,774,315"/>
+<area shape="rect" id="node12" href="$a01646.html" title="Contains implementations of the observer design pattern: Subject class and IObserver interface..." alt="" coords="849,273,1016,315"/>
+<area shape="rect" id="node14" href="$a00392.html" title="Definition of the RtFiffRawViewModel Class. " alt="" coords="3465,184,3693,225"/>
+<area shape="rect" id="node15" href="$a00962.html" title="Definition of the FiffInfo Class. " alt="" coords="3971,184,4089,225"/>
+<area shape="rect" id="node16" href="$a01004.html" title="Definition of the FiffStream Class. " alt="" coords="3134,184,3251,225"/>
+<area shape="rect" id="node17" href="$a01010.html" title="Definition of the FiffTag Class. " alt="" coords="4113,184,4230,225"/>
+<area shape="rect" id="node18" href="$a01055.html" title="Definition of the Surface class. " alt="" coords="4254,191,4425,218"/>
+<area shape="rect" id="node19" href="$a01205.html" title="HPIFit class defintion. " alt="" coords="3275,184,3441,225"/>
+<area shape="rect" id="node20" href="$a01424.html" title="Definition of the MNE Surface or Volume (MneSurfaceOrVolume) Class. " alt="" coords="4449,184,4629,225"/>
+<area shape="rect" id="node21" href="$a01493.html" title="MNEForwardSolution class implementation. " alt="" coords="1354,281,1631,307"/>
+<area shape="rect" id="node22" href="$a01583.html" title="Definition of the RtAveraging and RtAveragingWorker classes. " alt="" coords="2951,184,3109,225"/>
+<area shape="rect" id="node23" href="$a01652.html" title="Definition of the IOUtils class. " alt="" coords="3769,191,3947,218"/>
+<area shape="rect" id="node25" href="$a01496.html" title="MNEForwardSolution class declaration, which provides the forward solution including the source space ..." alt="" coords="1277,191,1540,218"/>
+<area shape="rect" id="node27" href="$a01658.html" title="Definition of the KMeans class. " alt="" coords="1011,191,1201,218"/>
+<area shape="rect" id="node26" href="$a03340_source.html" title="libraries/mne/mne_inverse\l_operator.h" alt="" coords="2277,273,2473,315"/>
+<area shape="rect" id="node29" href="$a00254.html" title="Definition of the ChannelSelectionView class. " alt="" coords="5292,184,5485,225"/>
+<area shape="rect" id="node30" href="$a01664.html" title="Definition of the LayoutLoader class. " alt="" coords="5510,191,5729,218"/>
+<area shape="rect" id="node32" href="$a01670.html" title="Definition of the LayoutMaker class. " alt="" coords="4860,191,5080,218"/>
+<area shape="rect" id="node34" href="$a01115.html" title="Definition of the FwdEegSphereModel Class. " alt="" coords="5105,184,5267,225"/>
+<area shape="rect" id="node35" href="$a01709.html" title="Definition of the Sphere Class. " alt="" coords="4653,191,4836,218"/>
+<area shape="rect" id="node38" href="$a00302.html" title="Definition of the FilterDesignView class. " alt="" coords="2713,184,2875,225"/>
+<area shape="rect" id="node39" href="$a00518.html" title="Data3DTreeDelegate class definition. " alt="" coords="1616,184,1860,225"/>
+<area shape="rect" id="node40" href="$a00896.html" title="Definition of the FiffCov Class. " alt="" coords="1885,184,2002,225"/>
+<area shape="rect" id="node41" href="$a00932.html" title="Definition of the FIFFEvoked Class. " alt="" coords="2026,184,2143,225"/>
+<area shape="rect" id="node42" href="$a00986.html" title="Definition of the FiffProj Class. " alt="" coords="2167,184,2285,225"/>
+<area shape="rect" id="node43" href="$a01211.html" title="HPIFitData class defintion. " alt="" coords="2308,184,2475,225"/>
+<area shape="rect" id="node44" href="$a01244.html" title="Definition of the RapMusic Algorithm Class. " alt="" coords="2499,184,2689,225"/>
+</map>

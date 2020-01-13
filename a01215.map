@@ -1,0 +1,20 @@
+<map id="libraries/inverse/hpiFit/hpifitdata.h" name="libraries/inverse/hpiFit/hpifitdata.h">
+<area shape="rect" id="node2" href="$a01223.html" title="inverse library export/import macros. " alt="" coords="5,333,147,360"/>
+<area shape="rect" id="node6" href="$a01208.html" title="HPIFit class declaration. " alt="" coords="1925,95,1992,121"/>
+<area shape="rect" id="node4" href="$a01631.html" title="build information utils " alt="" coords="365,632,488,659"/>
+<area shape="rect" id="node7" href="$a00878.html" title="FiffChInfo class declaration. " alt="" coords="1685,408,1811,435"/>
+<area shape="rect" id="node19" href="$a00917.html" title="FiffDigPointSet class declaration. " alt="" coords="694,244,821,285"/>
+<area shape="rect" id="node30" href="$a00911.html" title="FiffDigPoint class declaration. " alt="" coords="1785,483,1924,509"/>
+<area shape="rect" id="node32" href="$a00893.html" title="FiffCoordTrans class declaration. " alt="" coords="1436,169,1591,196"/>
+<area shape="rect" id="node8" href="$a00953.html" title="Fiff library export/import macros. " alt="" coords="568,557,667,584"/>
+<area shape="rect" id="node9" href="$a01016.html" title="Old fiff_type declarations &#45; replace them. " alt="" coords="1238,557,1333,584"/>
+<area shape="rect" id="node16" href="$a00884.html" title="FiffChPos class declaration. " alt="" coords="1607,483,1710,509"/>
+<area shape="rect" id="node10" href="$a00887.html" title="Fiff constants. " alt="" coords="942,632,1063,659"/>
+<area shape="rect" id="node21" href="$a01007.html" title="FiffStream class declaration. " alt="" coords="1016,333,1120,360"/>
+<area shape="rect" id="node22" href="$a00959.html" title="FiffId class declaration. " alt="" coords="1214,483,1285,509"/>
+<area shape="rect" id="node23" href="$a00929.html" title="FiffDirNode class declaration, which provides fiff dir tree processing methods. " alt="" coords="1057,408,1172,435"/>
+<area shape="rect" id="node24" href="$a00923.html" title="FiffDirEntry class declaration. " alt="" coords="1075,483,1189,509"/>
+<area shape="rect" id="node25" href="$a00944.html" title="Fiff block and dir tag explainations. " alt="" coords="893,483,1000,509"/>
+<area shape="rect" id="node26" href="$a00947.html" title="Header file describing the numerical values used in fif files. " alt="" coords="907,557,986,584"/>
+<area shape="rect" id="node33" href="$a00848.html" title="FiffCoordTransOld class declaration. " alt="" coords="1343,244,1476,285"/>
+</map>

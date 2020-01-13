@@ -1,0 +1,6 @@
+<map id="libraries/mne/mne_surface.h" name="libraries/mne/mne_surface.h">
+<area shape="rect" id="node2" href="$a01454.html" title="MNE class declaration, which provides static wrapper functions to stay consistent with mne matlab too..." alt="" coords="13,87,166,114"/>
+<area shape="rect" id="node4" href="$a01511.html" title="MNEProjectToSurface class definition. " alt="" coords="190,80,383,121"/>
+<area shape="rect" id="node5" href="$a01529.html" title="MNESurface class implementation. " alt="" coords="407,87,630,114"/>
+<area shape="rect" id="node3" href="$a01451.html" title="Definition of the MNE Wrapper Class. " alt="" coords="5,169,173,196"/>
+</map>

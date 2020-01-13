@@ -1,0 +1,22 @@
+<map id="libraries/rtprocessing/helpers/filterkernel.h" name="libraries/rtprocessing/helpers/filterkernel.h">
+<area shape="rect" id="node2" href="$a00353.html" title="Declaration of the EvokedSetModel Class. " alt="" coords="295,95,493,136"/>
+<area shape="rect" id="node6" href="$a00305.html" title="Contains the declaration of the FilterDesignView class. " alt="" coords="1224,95,1385,136"/>
+<area shape="rect" id="node9" href="$a00359.html" title="Contains the declaration of the FilterPlotScene class. " alt="" coords="832,95,1015,136"/>
+<area shape="rect" id="node11" href="$a00395.html" title="Declaration of the RtFiffRawViewModel Class. " alt="" coords="1689,95,1902,136"/>
+<area shape="rect" id="node14" href="$a00470.html" title="Definition of the RtFiffRawView Class. " alt="" coords="1932,184,2093,225"/>
+<area shape="rect" id="node15" href="$a00974.html" title="Definition of a generic Fiff IO interface. " alt="" coords="2118,184,2235,225"/>
+<area shape="rect" id="node16" href="$a01535.html" title="Averaging defintions. " alt="" coords="2443,184,2601,225"/>
+<area shape="rect" id="node17" href="$a01550.html" title="Filter declarations. " alt="" coords="2097,95,2256,136"/>
+<area shape="rect" id="node19" href="$a01562.html" title="FilterIO class declaration. " alt="" coords="1039,95,1197,136"/>
+<area shape="rect" id="node21" href="$a01565.html" title="Contains all FilterKernel. " alt="" coords="2331,95,2507,136"/>
+<area shape="rect" id="node3" href="$a00224.html" title="Definition of the AverageLayoutView Class. " alt="" coords="5,184,183,225"/>
+<area shape="rect" id="node4" href="$a00248.html" title="Definition of the ButterflyView class. " alt="" coords="207,184,368,225"/>
+<area shape="rect" id="node5" href="$a00350.html" title="Definition of the EvokedSetModel Class. " alt="" coords="392,184,607,225"/>
+<area shape="rect" id="node7" href="$a00302.html" title="Definition of the FilterDesignView class. " alt="" coords="1036,184,1197,225"/>
+<area shape="rect" id="node8" href="$a00308.html" title="Definition of the FilterSettingsView Class. " alt="" coords="1222,184,1387,225"/>
+<area shape="rect" id="node10" href="$a00356.html" title="Definition of the FilterPlotScene class. " alt="" coords="631,184,829,225"/>
+<area shape="rect" id="node12" href="$a00386.html" title="Definition of the RtFiffRawViewDelegate Class. " alt="" coords="1664,184,1908,225"/>
+<area shape="rect" id="node13" href="$a00392.html" title="Definition of the RtFiffRawViewModel Class. " alt="" coords="1412,184,1640,225"/>
+<area shape="rect" id="node18" href="$a01547.html" title="Filter definitions. " alt="" coords="2260,184,2419,225"/>
+<area shape="rect" id="node20" href="$a01559.html" title="Definition of the FilterIO class. " alt="" coords="853,184,1012,225"/>
+</map>

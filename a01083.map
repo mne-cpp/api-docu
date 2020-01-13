@@ -1,0 +1,22 @@
+<map id="libraries/fwd/fwd_bem_model.h" name="libraries/fwd/fwd_bem_model.h">
+<area shape="rect" id="node2" href="$a01130.html" title="forward library export/import macros. " alt="" coords="2933,251,3038,278"/>
+<area shape="rect" id="node6" href="$a01100.html" title="FwdCoilSet class declaration. " alt="" coords="2969,95,3084,121"/>
+<area shape="rect" id="node8" href="$a00848.html" title="FiffCoordTransOld class declaration. " alt="" coords="1563,244,1717,285"/>
+<area shape="rect" id="node20" href="$a00929.html" title="FiffDirNode class declaration, which provides fiff dir tree processing methods. " alt="" coords="964,408,1079,435"/>
+<area shape="rect" id="node29" href="$a01013.html" title="FiffTag class declaration, which provides fiff tag I/O and processing methods. " alt="" coords="2157,95,2257,121"/>
+<area shape="rect" id="node37" href="$a00983.html" title="FiffNamedMatrix class declaration. " alt="" coords="309,483,483,509"/>
+<area shape="rect" id="node4" href="$a01631.html" title="build information utils " alt="" coords="1741,632,1864,659"/>
+<area shape="rect" id="node7" href="$a01094.html" title="FwdCoil class declaration. " alt="" coords="2936,169,3024,196"/>
+<area shape="rect" id="node10" href="$a01016.html" title="Old fiff_type declarations &#45; replace them. " alt="" coords="1215,557,1321,584"/>
+<area shape="rect" id="node9" href="$a00953.html" title="Fiff library export/import macros. " alt="" coords="1618,557,1729,584"/>
+<area shape="rect" id="node17" href="$a01007.html" title="FiffStream class declaration. " alt="" coords="1582,333,1698,360"/>
+<area shape="rect" id="node11" href="$a00887.html" title="Fiff constants. " alt="" coords="410,632,531,659"/>
+<area shape="rect" id="node18" href="$a00959.html" title="FiffId class declaration. " alt="" coords="1607,483,1678,509"/>
+<area shape="rect" id="node21" href="$a00923.html" title="FiffDirEntry class declaration. " alt="" coords="1367,483,1481,509"/>
+<area shape="rect" id="node22" href="$a00944.html" title="Fiff block and dir tag explainations. " alt="" coords="711,483,817,509"/>
+<area shape="rect" id="node23" href="$a00947.html" title="Header file describing the numerical values used in fif files. " alt="" coords="693,557,771,584"/>
+<area shape="rect" id="node30" href="$a00893.html" title="FiffCoordTrans class declaration. " alt="" coords="1983,169,2118,196"/>
+<area shape="rect" id="node31" href="$a00878.html" title="FiffChInfo class declaration. " alt="" coords="2549,408,2654,435"/>
+<area shape="rect" id="node32" href="$a00884.html" title="FiffChPos class declaration. " alt="" coords="2007,483,2110,509"/>
+<area shape="rect" id="node33" href="$a00911.html" title="FiffDigPoint class declaration. " alt="" coords="2134,483,2253,509"/>
+</map>

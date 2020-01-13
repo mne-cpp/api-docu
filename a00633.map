@@ -1,0 +1,30 @@
+<map id="libraries/disp3D/engine/model/items/mri/mritreeitem.h" name="libraries/disp3D/engine/model/items/mri/mritreeitem.h">
+<area shape="rect" id="node2" href="$a00515.html" title="disp3D library export/import macros. " alt="" coords="198,468,313,509"/>
+<area shape="rect" id="node6" href="$a00575.html" title="AbstractTreeItem class declaration. " alt="" coords="147,244,363,271"/>
+<area shape="rect" id="node30" href="$a01496.html" title="MNEForwardSolution class declaration, which provides the forward solution including the source space ..." alt="" coords="2003,95,2209,121"/>
+<area shape="rect" id="node48" href="$a00137.html" title="Network class declaration. " alt="" coords="344,721,503,763"/>
+<area shape="rect" id="node4" href="$a01631.html" title="build information utils " alt="" coords="1269,885,1391,912"/>
+<area shape="rect" id="node7" href="$a00590.html" title="Contains general application specific types. " alt="" coords="755,319,825,345"/>
+<area shape="rect" id="node8" href="$a01052.html" title="Label class declaration. " alt="" coords="629,729,711,755"/>
+<area shape="rect" id="node13" href="$a01196.html" title="FiffDigPointSet class declaration. " alt="" coords="864,721,1020,763"/>
+<area shape="rect" id="node16" href="$a00965.html" title="FiffInfo class declaration. " alt="" coords="1847,393,1951,420"/>
+<area shape="rect" id="node9" href="$a01046.html" title="Fs library export/import macros. " alt="" coords="730,811,823,837"/>
+<area shape="rect" id="node17" href="$a00953.html" title="Fiff library export/import macros. " alt="" coords="2029,811,2127,837"/>
+<area shape="rect" id="node18" href="$a00971.html" title="FiffInfoBase class declaration. " alt="" coords="1952,475,2073,502"/>
+<area shape="rect" id="node19" href="$a01016.html" title="Old fiff_type declarations &#45; replace them. " alt="" coords="3187,811,3281,837"/>
+<area shape="rect" id="node23" href="$a00893.html" title="FiffCoordTrans class declaration. " alt="" coords="2301,557,2436,584"/>
+<area shape="rect" id="node20" href="$a00887.html" title="Fiff constants. " alt="" coords="3424,885,3545,912"/>
+<area shape="rect" id="node24" href="$a00848.html" title="FiffCoordTransOld class declaration. " alt="" coords="2253,632,2386,673"/>
+<area shape="rect" id="node25" href="$a00929.html" title="FiffDirNode class declaration, which provides fiff dir tree processing methods. " alt="" coords="3322,729,3437,755"/>
+<area shape="rect" id="node31" href="$a01502.html" title="mne library export/import macros. " alt="" coords="2488,319,2599,345"/>
+<area shape="rect" id="node32" href="$a01526.html" title="MNESourceSpace class declaration. " alt="" coords="2691,169,2841,196"/>
+<area shape="rect" id="node38" href="$a01679.html" title="MNEMath class declaration. " alt="" coords="3715,729,3844,755"/>
+<area shape="rect" id="node41" href="$a01661.html" title="KMeans class declaration. " alt="" coords="1299,729,1417,755"/>
+<area shape="rect" id="node42" href="$a01034.html" title="AnnotationSet class declaration. " alt="" coords="984,639,1124,666"/>
+<area shape="rect" id="node44" href="$a00899.html" title="FiffCov class declaration. " alt="" coords="1638,319,1739,345"/>
+<area shape="rect" id="node33" href="$a01508.html" title="MNEHemisphere class declaration. " alt="" coords="2962,244,3109,271"/>
+<area shape="rect" id="node34" href="$a00872.html" title="FIFF class declaration, which provides static wrapper functions to stay consistent with mne matlab to..." alt="" coords="3110,319,3182,345"/>
+<area shape="rect" id="node39" href="$a01718.html" title="utils library export/import macros. " alt="" coords="1410,811,1519,837"/>
+<area shape="rect" id="node43" href="$a01028.html" title="Annotation class declaration. " alt="" coords="735,729,839,755"/>
+<area shape="rect" id="node49" href="$a00059.html" title="connectivity library export/import macros. " alt="" coords="45,811,218,837"/>
+</map>
